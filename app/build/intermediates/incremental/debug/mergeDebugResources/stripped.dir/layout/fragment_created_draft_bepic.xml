@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-                                                                   
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/rv_created_draft"
-        android:layout_width="match_parent"
-        android:clipToPadding="false"
-        android:paddingBottom="100dp"
-        android:layout_height="match_parent"  android:tag="layout/fragment_created_draft_bepic_0" xmlns:android="http://schemas.android.com/apk/res/android"/>
-         

@@ -7,17 +7,17 @@
 
     <fragment
         android:id="@+id/homeFragment"
-        android:name="com.app.friendschat.ui.home.HomeBepicFragment"
+        android:name="com.app.friendschat.ui.home.HomeBepicFragmentRft"
         android:label="HomeFragment"
-        tools:layout="@layout/fragment_home_bepic"/>
+        tools:layout="@layout/fragment_home_bepic_rft"/>
     <fragment
         android:id="@+id/myCreationFragment"
-        android:name="com.app.friendschat.ui.my_creation.MyCreationBepicFragment"
+        android:name="com.app.friendschat.ui.my_creation.MyCreationBepicFragmentRft"
         android:label="MyCreationFragment"
-        tools:layout="@layout/fragment_my_creation_bepic"/>
+        tools:layout="@layout/fragment_my_creation_bepic_rft"/>
     <fragment
         android:id="@+id/settingsFragment"
-        android:name="com.app.friendschat.ui.settings.SettingsBepicFragment"
+        android:name="com.app.friendschat.ui.settings.SettingsBepicFragmentRft"
         android:label="SettingsFragment"
-        tools:layout="@layout/fragment_settings_bepic"/>
+        tools:layout="@layout/fragment_settings_bepic_rft"/>
 </navigation>

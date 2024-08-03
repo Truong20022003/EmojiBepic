@@ -18,7 +18,7 @@ class MainViewModel : BaseViewModel() {
 
     private var packageDao: PackageDao? = null
     private var emojiDao: EmojiDao? = null
-    suspend fun createDraftPackageIfNotExist(activity: MainBepicActivity) = withContext(Dispatchers.IO) {
+    suspend fun createDraftPackageIfNotExist(activity: MainBepicActivityRft) = withContext(Dispatchers.IO) {
         // create draft package if it is not exist
         packageDao = AppDatabase.getInstance(activity)?.packageNameDao()
         if (packageDao?.isDraftExisted() == false) {
@@ -32,7 +32,7 @@ class MainViewModel : BaseViewModel() {
         }
     }
 
-    suspend fun addDataIconModel(activity: MainBepicActivity) = withContext(Dispatchers.IO){
+    suspend fun addDataIconModel(activity: MainBepicActivityRft) = withContext(Dispatchers.IO){
         emojiDao = AppDatabase.getInstance(activity)?.emojiDao()
         if (emojiDao?.isEmojiExisted() == false) {
             addDataIconToDataBase(activity, Constants.FACE, action = { pos,folderName, nameIcon ->

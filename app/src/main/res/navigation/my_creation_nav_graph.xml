@@ -7,14 +7,14 @@
 
     <fragment
         android:id="@+id/createdPackageFragment"
-        android:name="com.app.friendschat.ui.my_creation.created_package_fragment.CreatedPackageBepicFragment"
+        android:name="com.app.friendschat.ui.my_creation.created_package_fragment.CreatedPackageBepicFragmentRft"
         android:label="CreatedPackageFragment"
-        tools:layout="@layout/fragment_created_package_bepic"/>
+        tools:layout="@layout/fragment_created_package_bepic_rft"/>
 
     <fragment
         android:id="@+id/createdDraftFragment"
-        android:name="com.app.friendschat.ui.my_creation.created_draft_fragment.CreatedDraftBepicFragment"
+        android:name="com.app.friendschat.ui.my_creation.created_draft_fragment.CreatedDraftBepicFragmentRft"
         android:label="CreatedDraftFragment"
-        tools:layout="@layout/fragment_created_draft_bepic"/>
+        tools:layout="@layout/fragment_created_draft_bepic_rft"/>
 
 </navigation>

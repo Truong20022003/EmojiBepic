@@ -13,17 +13,17 @@ class UnlockItemBepicDialog(
     private val onCloseBepic: () -> Unit = {},
     private val onWatchVideoBepic: () -> Unit
 ) : Dialog(activity) {
+    private lateinit var llWatchVideoBepic: LinearLayout
 
     private lateinit var ivCloseBepic: ImageView
-    private lateinit var llWatchVideoBepic: LinearLayout
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         window?.setBackgroundDrawableResource(android.R.color.transparent)
-        setContentView(R.layout.dialog_unlock_items_bepic)
+        setContentView(R.layout.dialog_unlock_items_bepic_rft)
 
-        initViewBepic()
+        initViewBepicRft()
 
         ivCloseBepic.tapAndCheckInternet {
             onCloseBepic.invoke()
@@ -37,7 +37,7 @@ class UnlockItemBepicDialog(
 
     }
 
-    private fun initViewBepic(){
+    private fun initViewBepicRft(){
         ivCloseBepic = findViewById(R.id.iv_close)
         llWatchVideoBepic = findViewById(R.id.ll_watch_video)
     }

@@ -110,7 +110,7 @@ class HomeViewModel : BaseViewModel() {
         ImportingAndSharingUtils.importToTelegram(context, uriList)
     }
 
-    fun addToWhatsapp(homeFragment: HomeBepicFragment, stickerPackInfo: StickerPackInfo) {
+    fun addToWhatsapp(homeFragment: HomeBepicFragmentRft, stickerPackInfo: StickerPackInfo) {
 
         if (uriList.size != stickerPack.stickers.size) {
             Toast.makeText(homeFragment.requireActivity(), homeFragment.requireActivity().getString(R.string.please_wait_until_all_stickers_are_loaded), Toast.LENGTH_SHORT).show()

@@ -25,7 +25,7 @@ public class RatingBepicDialog extends Dialog {
     public RatingBepicDialog(Context context2) {
         super(context2, R.style.CustomAlertDialog);
         this.contextBepic = context2;
-        setContentView(R.layout.dialog_rating_app_bepic);
+        setContentView(R.layout.dialog_rating_app_bepic_rft);
         WindowManager.LayoutParams attributes = getWindow().getAttributes();
         attributes.width = WindowManager.LayoutParams.MATCH_PARENT;
         attributes.height = WindowManager.LayoutParams.WRAP_CONTENT;

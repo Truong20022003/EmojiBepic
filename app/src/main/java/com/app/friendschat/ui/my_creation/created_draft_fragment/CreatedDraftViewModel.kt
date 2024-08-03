@@ -19,7 +19,7 @@ class CreatedDraftViewModel: BaseViewModel() {
     private lateinit var stickers: MutableList<StickerModel>
     private lateinit var adapter: CreatedDraftAdapter
 
-    fun loadPackagesFromDatabase(fragment: CreatedDraftBepicFragment) {
+    fun loadPackagesFromDatabase(fragment: CreatedDraftBepicFragmentRft) {
 
         packageDao = AppDatabase.getInstance(fragment.requireActivity())?.packageNameDao()
 

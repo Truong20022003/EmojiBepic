@@ -12,6 +12,6 @@ class LoadingBepicDialog(
         super.onCreate(savedInstanceState)
         setCancelable(false)
         window?.setBackgroundDrawableResource(android.R.color.transparent)
-        setContentView(R.layout.progress_circle)
+        setContentView(R.layout.progress_circle_rft)
     }
 }

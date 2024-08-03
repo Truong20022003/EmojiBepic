@@ -210,7 +210,7 @@ abstract class BaseFragment<VM : BaseViewModel, DB : ViewDataBinding> :
         init {
             setCancelable(false)
             requestWindowFeature(Window.FEATURE_NO_TITLE)
-            setContentView(R.layout.progress_circle)
+            setContentView(R.layout.progress_circle_rft)
             val window = window
             if (window != null) {
                 getWindow()!!.setBackgroundDrawableResource(android.R.color.transparent)

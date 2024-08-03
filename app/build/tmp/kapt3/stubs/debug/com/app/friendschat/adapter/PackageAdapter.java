@@ -40,18 +40,18 @@ public final class PackageAdapter extends androidx.recyclerview.widget.RecyclerV
     com.app.friendschat.adapter.PackageAdapter.ViewHolder holder, int position) {
     }
     
-    @kotlin.Metadata(mv = {1, 7, 1}, k = 1, d1 = {"\u0000$\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0004\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\u0018\u00002\u00020\u0001B\r\u0012\u0006\u0010\u0002\u001a\u00020\u0003\u00a2\u0006\u0002\u0010\u0004J\u0016\u0010\u0007\u001a\u00020\b2\u0006\u0010\t\u001a\u00020\n2\u0006\u0010\u000b\u001a\u00020\fR\u0011\u0010\u0002\u001a\u00020\u0003\u00a2\u0006\b\n\u0000\u001a\u0004\b\u0005\u0010\u0006\u00a8\u0006\r"}, d2 = {"Lcom/app/friendschat/adapter/PackageAdapter$ViewHolder;", "Landroidx/recyclerview/widget/RecyclerView$ViewHolder;", "binding", "Lcom/app/friendschat/databinding/LayoutPackageItemBinding;", "(Lcom/app/friendschat/databinding/LayoutPackageItemBinding;)V", "getBinding", "()Lcom/app/friendschat/databinding/LayoutPackageItemBinding;", "bind", "", "activity", "Landroid/app/Activity;", "item", "Lcom/app/friendschat/data/model/PackageAdapterItem;", "Emoji_Maker_v1.0.0_08.03.2024_debug"})
+    @kotlin.Metadata(mv = {1, 7, 1}, k = 1, d1 = {"\u0000$\n\u0002\u0018\u0002\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0002\b\u0004\n\u0002\u0010\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\n\u0002\u0018\u0002\n\u0000\u0018\u00002\u00020\u0001B\r\u0012\u0006\u0010\u0002\u001a\u00020\u0003\u00a2\u0006\u0002\u0010\u0004J\u0016\u0010\u0007\u001a\u00020\b2\u0006\u0010\t\u001a\u00020\n2\u0006\u0010\u000b\u001a\u00020\fR\u0011\u0010\u0002\u001a\u00020\u0003\u00a2\u0006\b\n\u0000\u001a\u0004\b\u0005\u0010\u0006\u00a8\u0006\r"}, d2 = {"Lcom/app/friendschat/adapter/PackageAdapter$ViewHolder;", "Landroidx/recyclerview/widget/RecyclerView$ViewHolder;", "binding", "Lcom/app/friendschat/databinding/LayoutPackageItemRftBinding;", "(Lcom/app/friendschat/databinding/LayoutPackageItemRftBinding;)V", "getBinding", "()Lcom/app/friendschat/databinding/LayoutPackageItemRftBinding;", "bind", "", "activity", "Landroid/app/Activity;", "item", "Lcom/app/friendschat/data/model/PackageAdapterItem;", "Emoji_Maker_v1.0.0_08.03.2024_debug"})
     public static final class ViewHolder extends androidx.recyclerview.widget.RecyclerView.ViewHolder {
         @org.jetbrains.annotations.NotNull
-        private final com.app.friendschat.databinding.LayoutPackageItemBinding binding = null;
+        private final com.app.friendschat.databinding.LayoutPackageItemRftBinding binding = null;
         
         public ViewHolder(@org.jetbrains.annotations.NotNull
-        com.app.friendschat.databinding.LayoutPackageItemBinding binding) {
+        com.app.friendschat.databinding.LayoutPackageItemRftBinding binding) {
             super(null);
         }
         
         @org.jetbrains.annotations.NotNull
-        public final com.app.friendschat.databinding.LayoutPackageItemBinding getBinding() {
+        public final com.app.friendschat.databinding.LayoutPackageItemRftBinding getBinding() {
             return null;
         }
         
