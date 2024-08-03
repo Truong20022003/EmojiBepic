@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+
+    
+
+                 
+                            
+                                                                 
+           
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" android:tag="layout/item_options_0">
+
+        <RelativeLayout
+            android:id="@+id/rl_item"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:paddingHorizontal="14dp"
+            android:layout_marginVertical="12dp"
+            android:layout_marginStart="10dp"
+            android:background="@drawable/border_bg_item_options">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerInParent="true">
+
+                <ImageView
+                    android:id="@+id/iv_option"
+                    android:layout_width="18dp"
+                    android:layout_height="18dp"
+                    android:layout_centerHorizontal="true"
+                    android:src="@drawable/ic_face_select" />
+
+                <TextView
+                    android:id="@+id/tv_option"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@+id/iv_option"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginTop="2dp"
+                    android:fontFamily="@font/urbanist_semi_bold"
+                    android:text="@string/face"
+                    android:textColor="@color/color_0C111D"
+                    android:textSize="10sp" />
+            </RelativeLayout>
+        </RelativeLayout>
+    </RelativeLayout>
+         

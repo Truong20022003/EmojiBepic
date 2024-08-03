@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+        
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingHorizontal="@dimen/_13sdp"
+        android:paddingVertical="@dimen/_9sdp" android:tag="layout/item_layer_0">
+
+        <ImageView
+            android:id="@+id/iv_show_layer"
+            android:layout_width="@dimen/_17sdp"
+            android:layout_height="@dimen/_17sdp"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_show_layer" />
+
+        <RelativeLayout
+            android:id="@+id/rl_layer"
+            android:layout_width="@dimen/_47sdp"
+            android:layout_height="@dimen/_33sdp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="@dimen/_9sdp"
+            android:layout_toEndOf="@+id/iv_show_layer"
+            android:background="@drawable/border_emoji_item_layer">
+
+            <ImageView
+                android:id="@+id/iv_layer"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
+
+            <ProgressBar
+                android:id="@+id/pb_loading"
+                android:layout_width="@dimen/_15sdp"
+                android:layout_height="@dimen/_15sdp"
+                android:layout_centerInParent="true"
+                android:indeterminate="true"
+                android:indeterminateTint="@color/color_BCBCBC" />
+
+        </RelativeLayout>
+
+        <TextView
+            android:id="@+id/tv_name"
+            android:text="@string/app_name"
+            android:layout_toEndOf="@+id/rl_layer"
+            android:layout_toStartOf="@+id/iv_swap"
+            android:layout_centerVertical="true"
+            android:fontFamily="@font/urbanist_medium"
+            android:layout_marginStart="@dimen/_5sdp"
+            android:layout_marginEnd="@dimen/_8sdp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <ImageView
+            android:id="@+id/iv_swap"
+            android:layout_width="@dimen/_17sdp"
+            android:layout_height="@dimen/_17sdp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@drawable/ic_swap" />
+
+    </RelativeLayout>
+         

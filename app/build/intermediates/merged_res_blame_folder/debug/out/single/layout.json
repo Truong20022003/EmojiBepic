@@ -1,0 +1,118 @@
+[
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_created_package_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/fragment_created_package_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_sticker_pack_detail_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_sticker_pack_detail_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_settings_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/fragment_settings_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_intro_bepic_new.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_intro_bepic_new.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_language_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_language_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_new_package_item_created_package.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/layout_new_package_item_created_package.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_suggestion_item.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/layout_suggestion_item.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_created_draft_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/fragment_created_draft_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_edit_emoji_new.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_edit_emoji_new.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_home_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/fragment_home_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_language_start.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/item_language_start.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_package_item.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/layout_package_item.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_permission_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_permission_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_splash_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_splash_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_layer.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/item_layer.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_options.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/item_options.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_my_creation_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/fragment_my_creation_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_item_test.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/layout_item_test.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_language_start_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_language_start_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_main_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_main_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_sticker_item.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/layout_sticker_item.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_emoji_bepic_new.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_emoji_bepic_new.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_successfully_save_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_successfully_save_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_icon.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/item_icon.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_no_internet_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_no_internet_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_policy_bepic.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/activity_policy_bepic.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_normal_item_created_package.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/layout_normal_item_created_package.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_item_created_draft.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/layout_item_created_draft.xml"
+    },
+    {
+        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_pager_icon.xml",
+        "source": "com.app.friendschat.app-main-73:/layout/item_pager_icon.xml"
+    }
+]

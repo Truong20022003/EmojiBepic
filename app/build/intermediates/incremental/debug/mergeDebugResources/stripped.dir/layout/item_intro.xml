@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:layout_marginTop="25dp"
+        android:id="@+id/img_guide"
+        android:layout_width="match_parent"
+        android:layout_height="262dp"
+        android:src="@drawable/img_intro_1"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:layout_width="25dp"
+        android:src="@drawable/img_polygon"
+        android:layout_height="19dp"
+        app:layout_constraintEnd_toEndOf="@id/llContent"
+        app:layout_constraintBottom_toTopOf="@id/llContent"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="-2dp"/>
+
+    <LinearLayout
+        android:paddingHorizontal="12dp"
+        android:paddingTop="12dp"
+        android:paddingBottom="16dp"
+        android:layout_marginTop="-65dp"
+        app:layout_constraintTop_toBottomOf="@id/img_guide"
+        android:background="@drawable/new_bober_white"
+        android:id="@+id/llContent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tvTile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/urbanist_extra_bold"
+            android:gravity="center"
+            android:maxLines="2"
+            android:text="@string/Welcome_to_Your_Emoji_Art"
+            android:textColor="@color/color_095467"
+            android:textSize="@dimen/_16ssp" />
+
+
+        <TextView
+            android:id="@+id/tvContent"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="@font/urbanist_regular"
+            android:gravity="center"
+            android:minLines="2"
+            android:layout_marginTop="@dimen/_6sdp"
+            android:lineHeight="@dimen/_20ssp"
+            android:text="@string/Express_yourself_with_custom"
+            android:textColor="#344054"
+            android:textSize="@dimen/_13ssp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/tvTile" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

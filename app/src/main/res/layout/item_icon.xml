@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+
+    <data>
+
+        <variable
+            name="viewModel"
+            type="com.app.friendschat.data.model.IconModel" />
+    </data>
+
+    <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RelativeLayout
+            android:id="@+id/rl_icon"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:background="@drawable/bg_item_icon"
+            android:layout_centerInParent="true"
+            android:layout_margin="3dp">
+
+            <ImageView
+                android:id="@+id/iv_icon"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_centerInParent="true"
+                android:src="@drawable/ic_face_select" />
+
+            <ProgressBar
+                android:id="@+id/pb_icon"
+                android:layout_width="@dimen/_25sdp"
+                android:layout_height="@dimen/_25sdp"
+                android:layout_centerInParent="true"
+                android:indeterminate="true"
+                android:indeterminateTint="@color/color_BCBCBC" />
+
+<!--            <ImageView-->
+<!--                android:id="@+id/iv_ads"-->
+<!--                android:layout_width="@dimen/_8sdp"-->
+<!--                android:layout_height="@dimen/_8sdp"-->
+<!--                android:layout_alignParentRight="true"-->
+<!--                android:src="@drawable/ic_start_ads"-->
+<!--                android:visibility="gone"/>-->
+
+        </RelativeLayout>
+    </RelativeLayout>
+</layout>

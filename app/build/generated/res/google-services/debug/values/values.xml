@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">802597997836</string>
+    <string name="google_api_key" translatable="false">AIzaSyAn6XghgR9sRBwnI_eJVCCGdvm87yUkeLk</string>
+    <string name="google_app_id" translatable="false">1:802597997836:android:86654b905b229433d00d29</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAn6XghgR9sRBwnI_eJVCCGdvm87yUkeLk</string>
+    <string name="google_storage_bucket" translatable="false">bp-v1-v006-emoji.appspot.com</string>
+    <string name="project_id" translatable="false">bp-v1-v006-emoji</string>
+</resources>

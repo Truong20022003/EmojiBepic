@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d notifikasi baru</item>
+    <item quantity="other">%d notifikasi baru</item>
+  </plurals>
+    <string name="Create">Membuat</string>
+    <string name="Create_Emoji">Buat Emoji</string>
+    <string name="Create_Sticker">Buat Stiker</string>
+    <string name="Create_personalized_emojis">Buat emoji dan stiker yang dipersonalisasi, ekspresikan perasaan Anda dengan emoji.</string>
+    <string name="Edit_Emoji">Sunting Emoji</string>
+    <string name="Emoji_Maker">Pembuat Emoji</string>
+    <string name="Enjoy_making_unique_stickers">Nikmati membuat stiker dan emoji unik yang mencerminkan gaya dan suasana hati Anda.</string>
+    <string name="Express_Yourself">Ekspresikan dirimu</string>
+    <string name="Express_yourself_with_custom">Ekspresikan diri Anda dengan emoji dan stiker khusus, yang dibuat sendiri.</string>
+    <string name="Go_to_setting">Pergi ke pengaturan</string>
+    <string name="Grant_Permission">Memberikan ijin</string>
+    <string name="Home">Rumah</string>
+    <string name="Layer">Lapisan</string>
+    <string name="Make_Your_Symbol">Buat Simbol Anda</string>
+    <string name="My_Creation">Ciptaan Saya</string>
+    <string name="New_Package">Paket Baru</string>
+    <string name="Permission_is_denied">Izin ditolak</string>
+    <string name="Please_feedback">Mohon masukannya</string>
+    <string name="Please_grant_all_permissions">Harap berikan semua izin untuk mengakses fungsi tambahan.</string>
+    <string name="Please_indicate_whether">Harap tunjukkan apakah Anda ingin membuat emoji atau stiker.</string>
+    <string name="Select_Your_Type">Pilih Tipe Anda</string>
+    <string name="Settings">Pengaturan</string>
+    <string name="Start_Your_Sticker_Journey">Mulai Perjalanan Stiker Anda!</string>
+    <string name="Sticker_Maker">Pembuat Stiker</string>
+    <string name="Sticker_and_Emoji_Joy">Stiker dan Emoji Joy!</string>
+    <string name="Suggest_for_you">Sarankan untuk Anda</string>
+    <string name="The_best_we_can_get">Yang terbaik yang bisa kita dapatkan :)</string>
+    <string name="Unlock_items">Buka kunci item</string>
+    <string name="Watch_Video">Tonton Video</string>
+    <string name="Watch_ads_to_unlock">Tonton iklan untuk membuka kunci secara gratis.</string>
+    <string name="Welcome_to_Your_Emoji_Art">Selamat datang di Seni Emoji Anda!</string>
+    <string name="Writing_something">Menulis sesuatu</string>
+    <string name="Your_draft_will_be_saved">Apakah Anda yakin ingin keluar? Draf Anda akan disimpan.</string>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Tunjukkan jalan ke rumah"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Kembali ke atas"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Opsi lain"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Selesai"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Lihat semua"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"Pilih aplikasi"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"NONAKTIF"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AKTIF"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"spasi"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Telusuri..."</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Hapus kueri"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Telusuri kueri"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Telusuri"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Kirim kueri"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Penelusuran suara"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Bagikan dengan"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Bagikan dengan <ns1:g id="APPLICATION_NAME">%s</ns1:g>"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Ciutkan"</string>
+    <string name="access_media_permissions_msg">Untuk melampirkan foto, kami perlu mengakses media di perangkat Anda</string>
+    <string name="accessory">Tambahan</string>
+    <string name="add">Tambah</string>
+    <string name="add_to_package">Tambahkan ke Paket</string>
+    <string name="add_to_telegram">Tambahkan ke Telegram</string>
+    <string name="add_to_whatsapp">Tambahkan ke WhatsApp</string>
+    <string name="airbrush">AirBrush</string>
+    <string name="allow_access">Izinkan akses</string>
+    <string name="are_you_sure">Apa kamu yakin?</string>
+    <string name="background">Latar belakang</string>
+    <string name="beard">Jenggot</string>
+    <string name="bottomsheet_action_expand_halfway">Luaskan setengah</string>
+    <string name="brow">Alis</string>
+    <string name="calligraphy">Kaligrafi</string>
+    <string name="camera">Kamera</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="character_counter_content_description">Karakter yang dimasukkan %1$d dari %2$d</string>
+    <string name="character_counter_overflowed_content_description">Melebihi batas karakter %1$d dari %2$d</string>
+    <string name="clear">jernih()</string>
+    <string name="clear_all">Bersihkan semua</string>
+    <string name="clear_text_end_icon_content_description">Menghapus teks</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktifkan</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s tidak akan berfungsi jika layanan Google Play tidak diaktifkan.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Aktifkan layanan Google Play</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Instal</string>
+    <string name="common_google_play_services_install_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak ada di perangkat Anda.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Dapatkan layanan Google Play</string>
+    <string name="common_google_play_services_notification_channel_name">Ketersediaan layanan Google Play</string>
+    <string name="common_google_play_services_notification_ticker">Kesalahan layanan Google Play</string>
+    <string name="common_google_play_services_unknown_issue">%1$s mengalami masalah dengan layanan Google Play. Coba lagi.</string>
+    <string name="common_google_play_services_unsupported_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang tidak didukung oleh perangkat Anda.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s tidak akan berjalan jika layanan Google Play tidak diperbarui.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Perbarui layanan Google Play</string>
+    <string name="common_google_play_services_updating_text">%1$s tidak akan berjalan tanpa layanan Google Play, yang saat ini sedang diperbarui.</string>
+    <string name="common_google_play_services_wear_update_text">Perlu versi baru layanan Google Play. Akan segera memperbarui sendiri.</string>
+    <string name="common_open_on_phone">Buka di ponsel</string>
+    <string name="common_signin_button_text">Login</string>
+    <string name="common_signin_button_text_long">Login dengan Google</string>
+    <string name="congratulations">Selamat!</string>
+    <string name="continue_text">Melanjutkan</string>
+    <string name="continue_txt">Melanjutkan</string>
+    <string name="create_more_emoji">Buat Lebih Banyak Emoji</string>
+    <string name="delete">Menghapus</string>
+    <string name="directory_create_fail">Gagal membuat direktori</string>
+    <string name="do_you_like_this_app">Apakah kamu suka aplikasi ini?</string>
+    <string name="done">Selesai</string>
+    <string name="download">Unduh</string>
+    <string name="download_failed">Pengunduhan gagal</string>
+    <string name="downloaded_successfully_to_gallery">Berhasil diunduh ke galeri</string>
+    <string name="draft">Draf</string>
+    <string name="enterzoommode">masukZoomMode()</string>
+    <string name="eraser">Penghapus</string>
+    <string name="error_adding_sticker_pack">"Tidak dapat menambahkan paket stiker ini. Silakan instal WhatsApp versi terbaru sebelum menambahkan paket stiker"</string>
+    <string name="error_icon_content_description">Error</string>
+    <string name="example_emoji_1">Contoh: Emoji 1</string>
+    <string name="excellent">Luar biasa!</string>
+    <string name="exitzoommode">keluarZoomMode()</string>
+    <string name="explore_more_stickers">Jelajahi Lebih Banyak Stiker</string>
+    <string name="export">ekspor()</string>
+    <string name="export_without_bg">eksporTanpa Latar Belakang()</string>
+    <string name="exposed_dropdown_menu_content_description">Tampilkan menu dropdown</string>
+    <string name="eyes">Mata</string>
+    <string name="face">Menghadapi</string>
+    <string name="funny_emoji">Emoji Lucu</string>
+    <string name="gallery">Galeri</string>
+    <string name="get_started">Memulai</string>
+    <string name="glass">Kaca</string>
+    <string name="hair">Rambut</string>
+    <string name="hand">Tangan</string>
+    <string name="hat">Topi</string>
+    <string name="hello_blank_fragment">Halo fragmen kosong</string>
+    <string name="home_nav_header_title">Pembuat Emoji</string>
+    <string name="icon_content_description">Ikon Dialog</string>
+    <string name="import_bitmap">setGambarBitmap()</string>
+    <string name="invalid_action">Tindakan Tidak Valid</string>
+    <string name="invalid_action_msg">Untuk dapat diterapkan pada WhatsApp, paket stiker minimal harus memiliki 3 stiker. Silakan tambahkan lebih banyak stiker terlebih dahulu.</string>
+    <string name="item">barang</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="items">item</string>
+    <string name="language">Bahasa</string>
+    <string name="languages">Bahasa</string>
+    <string name="let_us_know_your_experience_5_stars_is_the_best_on_google_play">Beritahu kami pengalaman Anda, 5 bintang adalah yang terbaik di Google Play!</string>
+    <string name="material_clock_toggle_content_description">Pilih AM atau PM</string>
+    <string name="material_hour_selection">Pilih jam</string>
+    <string name="material_hour_suffix">Pukul %1$s</string>
+    <string name="material_minute_selection">Pilih menit</string>
+    <string name="material_minute_suffix">%1$s menit</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">Beralih ke mode jam untuk masukan waktu.</string>
+    <string name="material_timepicker_hour">Jam</string>
+    <string name="material_timepicker_minute">Menit</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Pilih waktu</string>
+    <string name="material_timepicker_text_input_mode_description">Beralih ke mode masukan teks untuk masukan waktu.</string>
+    <string name="media_access_denied_msg">Anda menolak akses penyimpanan, tidak ada foto yang akan ditambahkan.</string>
+    <string name="more_than_50_items_at_once">Anda tidak dapat membuat lebih dari 50 item sekaligus. Silakan ganti item Anda yang ada</string>
+    <string name="mouth">Mulut</string>
+    <string name="mtrl_badge_numberless_content_description">Notifikasi baru</string>
+    <string name="mtrl_chip_close_icon_content_description">Menghapus %1$s</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Lebih dari %1$d notifikasi baru</string>
+    <string name="mtrl_picker_a11y_next_month">Ubah ke bulan berikutnya</string>
+    <string name="mtrl_picker_a11y_prev_month">Ubah ke bulan sebelumnya</string>
+    <string name="mtrl_picker_announce_current_selection">Pilihan saat ini: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Pilih Tanggal</string>
+    <string name="mtrl_picker_date_header_unselected">Tanggal yang dipilih</string>
+    <string name="mtrl_picker_day_of_week_column_header">Kolom hari: %1$s</string>
+    <string name="mtrl_picker_invalid_format">Format tidak valid.</string>
+    <string name="mtrl_picker_invalid_format_example">Contoh: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Gunakan: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Rentang tidak valid.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Buka tahun %1$s</string>
+    <string name="mtrl_picker_out_of_range">Di luar rentang: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Tanggal mulai – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Tanggal akhir</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Pilih Rentang</string>
+    <string name="mtrl_picker_range_header_unselected">Tanggal mulai – Tanggal akhir</string>
+    <string name="mtrl_picker_save">Simpan</string>
+    <string name="mtrl_picker_text_input_date_hint">Tanggal</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Tanggal akhir</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Tanggal mulai</string>
+    <string name="mtrl_picker_text_input_day_abbr">h</string>
+    <string name="mtrl_picker_text_input_month_abbr">b</string>
+    <string name="mtrl_picker_text_input_year_abbr">t</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">Beralih ke mode masukan kalender</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Ketuk untuk beralih ke memilih hari</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">Beralih ke mode masukan teks</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Ketuk untuk beralih ke memilih tahun</string>
+    <string name="my_creation_nav_header_title">Ciptaan Saya</string>
+    <string msgid="6301633601645100427" name="nav_app_bar_navigate_up_description">"Kembali ke atas"</string>
+    <string msgid="7456070600745802113" name="nav_app_bar_open_drawer_description">"Buka panel navigasi"</string>
+    <string name="new_package">Paket Baru</string>
+    <string name="next">Berikutnya</string>
+    <string name="no_app_found_to_handle_the_share_action">Tidak ditemukan aplikasi untuk menangani tindakan berbagi</string>
+    <string name="no_app_found_to_handle_this_action">Tidak ditemukan aplikasi untuk menangani tindakan ini</string>
+    <string name="no_internet">Tidak ada internet!</string>
+    <string name="no_results_founded">Tidak ada hasil yang ditemukan!</string>
+    <string name="nose">Hidung</string>
+    <string name="ok">Oke</string>
+    <string name="okay">Oke</string>
+    <string name="package_name_already_exists">Nama paket sudah ada</string>
+    <string name="package_text">Kemasan</string>
+    <string name="password_toggle_content_description">Tampilkan sandi</string>
+    <string name="pen">Pena</string>
+    <string name="pencil">Pensil</string>
+    <string name="permission">Izin!!</string>
+    <string name="please_enter_package_name">Silakan masukkan nama paket</string>
+    <string name="please_select_at_least_one_package">Silakan pilih setidaknya satu paket</string>
+    <string name="please_wait_for_the_sticker_to_load">Harap tunggu hingga stiker dimuat</string>
+    <string name="please_wait_until_all_stickers_are_loaded">Harap tunggu sampai semua stiker dimuat</string>
+    <string name="privacy_policy">Kebijakan pribadi</string>
+    <string name="quit">Berhenti</string>
+    <string name="rate">Kecepatan</string>
+    <string name="rating_dialog_content">Beri tahu kami pengalaman Anda 5 bintang adalah yang terbaik di Google Play!</string>
+    <string name="rating_dialog_title">Apakah Anda menyukai aplikasi ini?</string>
+    <string name="recent">Terkini</string>
+    <string name="redo">mengulangi()</string>
+    <string name="reset_zoom">atur ulangZoom()</string>
+    <string name="save">Menyimpan</string>
+    <string name="save_to_package">Simpan ke Paket</string>
+    <string name="saved_successfully">Berhasil disimpan</string>
+    <string name="search">Mencari</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Telusuri"</string>
+    <string name="send">Mengirim</string>
+    <string name="setting">Pengaturan</string>
+    <string name="settings_nav_header_title">Pengaturan</string>
+    <string name="share">Membagikan</string>
+    <string name="share_app">Bagikan ke</string>
+    <string name="some_stickers_are_not_downloaded">Beberapa stiker tidak diunduh</string>
+    <string name="something_went_wrong">Ada yang salah</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="sticker">stiker</string>
+    <string name="stickers">stiker</string>
+    <string name="submit">Kirim</string>
+    <string name="suggestions_for_you">Saran untuk Anda</string>
+    <string name="thank_you_for_rating_us">Terima kasih telah memberi kami peringkat</string>
+    <string name="thank_you_for_taking_the_time_to_rate_us_i_m_really_appreciate_that">Terima kasih telah meluangkan waktu untuk memberi kami peringkat. Saya sangat menghargainya.</string>
+    <string name="the_earth">Bumi</string>
+    <string name="there_is_no_internet_connection_please_check_your_internet_connection">Tidak ada koneksi internet. Silakan periksa koneksi internet Anda</string>
+    <string name="there_is_no_item_in_this_folder">Tidak ada item dalam folder ini</string>
+    <string name="this_action_can_contain_ads">Tindakan ini mungkin berisi iklan…</string>
+    <string name="this_app_needs_permissions_below_to_work_properly">Aplikasi ini memerlukan izin di bawah agar berfungsi dengan baik.</string>
+    <string name="this_file_will_be_deleted_from_your_creation">File ini akan dihapus dari kreasi Anda.</string>
+    <string name="this_file_will_be_deleted_on_your_device">File ini akan dihapus di perangkat Anda.</string>
+    <string name="this_is_a_sample_file">Ini adalah file sampel</string>
+    <string name="title_activity_photo_editor">Aktivitas Editor Foto</string>
+    <string name="try_again">Coba lagi</string>
+    <string name="undo">membuka()</string>
+    <string name="upload_dialog_title">Unggah Gambar</string>
+    <string name="upload_picker_title">Pilih Gambar</string>
+    <string name="version">Versi</string>
+    <string name="we_couldn_t_find_any_results_that_matched_your_searching">Kami tidak dapat menemukan hasil apa pun yang sesuai dengan pencarian Anda.</string>
+    <string name="what_do_you_speak">Apa yang kamu bicarakan?</string>
+    <string name="your_emoji_has_been_saved_to_my_creation">Emoji Anda telah disimpan ke \"Kreasi saya\".</string>
+</resources>

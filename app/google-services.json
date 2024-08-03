@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "802597997836",
+    "project_id": "bp-v1-v006-emoji",
+    "storage_bucket": "bp-v1-v006-emoji.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802597997836:android:86654b905b229433d00d29",
+        "android_client_info": {
+          "package_name": "com.app.friendschat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAn6XghgR9sRBwnI_eJVCCGdvm87yUkeLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

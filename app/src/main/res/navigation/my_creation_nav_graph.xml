@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/my_creation_nav_graph"
+    app:startDestination="@id/createdPackageFragment">
+
+    <fragment
+        android:id="@+id/createdPackageFragment"
+        android:name="com.app.friendschat.ui.my_creation.created_package_fragment.CreatedPackageBepicFragment"
+        android:label="CreatedPackageFragment"
+        tools:layout="@layout/fragment_created_package_bepic"/>
+
+    <fragment
+        android:id="@+id/createdDraftFragment"
+        android:name="com.app.friendschat.ui.my_creation.created_draft_fragment.CreatedDraftBepicFragment"
+        android:label="CreatedDraftFragment"
+        tools:layout="@layout/fragment_created_draft_bepic"/>
+
+</navigation>

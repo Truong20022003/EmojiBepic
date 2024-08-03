@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.app.friendschat.ui.home.HomeBepicFragment"
+        android:label="HomeFragment"
+        tools:layout="@layout/fragment_home_bepic"/>
+    <fragment
+        android:id="@+id/myCreationFragment"
+        android:name="com.app.friendschat.ui.my_creation.MyCreationBepicFragment"
+        android:label="MyCreationFragment"
+        tools:layout="@layout/fragment_my_creation_bepic"/>
+    <fragment
+        android:id="@+id/settingsFragment"
+        android:name="com.app.friendschat.ui.settings.SettingsBepicFragment"
+        android:label="SettingsFragment"
+        tools:layout="@layout/fragment_settings_bepic"/>
+</navigation>

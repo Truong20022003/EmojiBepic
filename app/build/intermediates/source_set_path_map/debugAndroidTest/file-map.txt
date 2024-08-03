@@ -1,0 +1,5 @@
+com.app.friendschat.test.app-androidTest-0 D:\App\V006EmojiBepicV2\app\build\generated\res\resValues\androidTest\debug
+com.app.friendschat.test.app-androidTest-1 D:\App\V006EmojiBepicV2\app\build\generated\res\rs\androidTest\debug
+com.app.friendschat.test.app-mergeDebugAndroidTestResources-2 D:\App\V006EmojiBepicV2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.app.friendschat.test.app-mergeDebugAndroidTestResources-3 D:\App\V006EmojiBepicV2\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.app.friendschat.test.app-merged_res-4 D:\App\V006EmojiBepicV2\app\build\intermediates\merged_res\debugAndroidTest

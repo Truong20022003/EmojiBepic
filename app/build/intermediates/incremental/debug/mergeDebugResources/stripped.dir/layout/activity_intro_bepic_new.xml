@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                   
+
+    
+
+                 
+                            
+                                                                 
+           
+
+    <LinearLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         android:background="@drawable/bg_main"
+        android:orientation="vertical" android:tag="layout/activity_intro_bepic_new_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+
+        <LinearLayout
+            android:layout_marginHorizontal="16dp"
+            android:layout_marginTop="40dp"
+            android:id="@+id/linear_dots"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@android:color/transparent"
+            android:gravity="start"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent">
+            
+            <View
+                android:layout_marginEnd="8dp"
+                android:id="@+id/dot_1"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="8dp"
+                android:background="@drawable/dot_select"/>
+
+            <View
+                android:layout_marginEnd="8dp"
+                android:id="@+id/dot_2"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="8dp"
+                android:background="@drawable/dot_select"/>
+
+            <View
+                android:id="@+id/dot_3"
+                android:layout_weight="1"
+                android:layout_width="0dp"
+                android:layout_height="8dp"
+                android:background="@drawable/dot_select"/>
+            
+        </LinearLayout>
+
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="645dp"
+            android:layout_weight="1" />
+
+        <LinearLayout
+            android:id="@+id/rl_next_ads"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="@dimen/_12sdp"
+            android:paddingHorizontal="@dimen/_15sdp"
+            android:gravity="center"
+            app:layout_constraintBottom_toBottomOf="parent">
+
+            <TextView
+                android:id="@+id/tv_next"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentEnd="true"
+                android:layout_centerVertical="true"
+                android:layout_marginBottom="0.5dp"
+                android:fontFamily="@font/urbanist_extra_bold"
+                android:gravity="center"
+                android:paddingHorizontal="@dimen/_10sdp"
+                android:text="@string/continue_txt"
+                android:textColor="@color/color_095467"
+                android:textSize="20sp"
+                app:layout_constraintEnd_toEndOf="parent" />
+
+            <ImageView
+                android:id="@+id/iv_row_continue"
+                android:layout_marginStart="-5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/new_ic_row_continue"/>
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:id="@+id/native_ad_view_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginHorizontal="@dimen/_5sdp">
+
+            <FrameLayout
+                android:id="@+id/native_ad_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </FrameLayout>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+         

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                        
+
+    
+
+                 
+                            
+                                                                            
+           
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+         android:background="@drawable/bg_main"
+        android:orientation="vertical"
+        android:paddingHorizontal="@dimen/_13sdp" android:tag="layout/fragment_my_creation_bepic_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <TextView
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:textColor="@color/color_1F1F29"
+            android:fontFamily="@font/urbanist_extra_bold"
+            android:textSize="24sp"
+            android:layout_height="wrap_content"
+            android:text="@string/My_Creation"/>
+
+        <LinearLayout
+            android:layout_marginTop="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_37sdp"
+            android:orientation="horizontal">
+
+            <RelativeLayout
+                android:id="@+id/rl_package_tab"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/border_select_language">
+
+                <com.app.friendschat.utils.custom_view.MovableText
+                    android:id="@+id/tvPackage"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:fontFamily="@font/urbanist_semi_bold"
+                    android:text="@string/package_text"
+                    android:textColor="@color/white"
+                    android:textSize="@dimen/_13ssp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:id="@+id/rl_draft_tab"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/border_share_or_download_button"
+                android:layout_marginStart="@dimen/_13sdp">
+
+                <com.app.friendschat.utils.custom_view.MovableText
+                    android:id="@+id/tvDraft"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerInParent="true"
+                    android:fontFamily="@font/urbanist_semi_bold"
+                    android:text="@string/draft"
+                    android:textColor="@color/color_0C111D"
+                    android:textSize="@dimen/_13ssp" />
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+        <fragment
+            android:id="@+id/my_nav_host_fragment"
+            android:name="androidx.navigation.fragment.NavHostFragment"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:layout_marginVertical="@dimen/_17sdp"
+            app:defaultNavHost="true"
+            app:navGraph="@navigation/my_creation_nav_graph" />
+
+    </LinearLayout>
+         
