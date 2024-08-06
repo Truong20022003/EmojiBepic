@@ -13,28 +13,24 @@ class ExitEmojiBepicDialog(
     private val onQuitBepic: () -> Unit = {},
     private val onSaveDaftBepic: () -> Unit = {}
 ) : Dialog(activity){
-
-    private lateinit var ivCloseBepic: ImageView
     private lateinit var rlSaveBepic: RelativeLayout
     private lateinit var rlQuitBepic: RelativeLayout
+    private lateinit var ivCloseBepic: ImageView
+
+
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
         window?.setBackgroundDrawableResource(android.R.color.transparent)
-        setContentView(R.layout.dialog_exit_emoji_bepic)
+        setContentView(R.layout.dialog_exit_emoji_bepic_rft)
 
-        initViewBepic()
-        initListenerBepic()
+        initViewBepicRft()
+        initListenerBepicRft()
     }
 
-    private fun initViewBepic(){
-        ivCloseBepic = findViewById(R.id.iv_close)
-        rlQuitBepic = findViewById(R.id.rl_quit)
-        rlSaveBepic = findViewById(R.id.rl_save)
-    }
 
-    private fun initListenerBepic(){
+    private fun initListenerBepicRft(){
         ivCloseBepic.tapAndCheckInternet {
             dismiss()
         }
@@ -49,5 +45,12 @@ class ExitEmojiBepicDialog(
             dismiss()
         }
     }
+    private fun initViewBepicRft(){
+        ivCloseBepic = findViewById(R.id.iv_close)
+        rlQuitBepic = findViewById(R.id.rl_quit)
+        rlSaveBepic = findViewById(R.id.rl_save)
+    }
+
+
 
 }

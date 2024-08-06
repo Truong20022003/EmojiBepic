@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.app.friendschat.app-mergeDebugResources-69:/values-sw630dp-v13/values-sw630dp-v13.xml",
+            "outputFile": "com.app.friendschat.app-mergeDebugResources-70:/values-sw630dp-v13/values-sw630dp-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\quang\\.gradle\\caches\\transforms-3\\4c6aa5d4be8967e858aad2e17fd2fb43\\transformed\\jetified-sdp-android-1.0.6\\res\\values-sw630dp-v13\\values-sw630dp-v13.xml",

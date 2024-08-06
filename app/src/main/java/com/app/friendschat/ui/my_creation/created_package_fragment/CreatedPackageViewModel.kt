@@ -18,7 +18,7 @@ import com.app.friendschat.database.AppDatabase
 import com.app.friendschat.database.PackageDao
 import com.app.friendschat.ui.base.BaseFragment
 import com.app.friendschat.ui.base.BaseViewModel
-import com.app.friendschat.ui.sticker_pack_detail.StickerPackDetailBepicActivity
+import com.app.friendschat.ui.sticker_pack_detail.StickerPackDetailBepicActivityRft
 import com.app.friendschat.utils.Constants
 import com.app.friendschat.utils.FileUtils
 import com.app.friendschat.utils.ImportingAndSharingUtils
@@ -42,7 +42,7 @@ class CreatedPackageViewModel: BaseViewModel() {
     val uriList = mutableListOf<Uri>()
     val bitmapList = mutableListOf<Bitmap>()
 
-    fun loadPackagesFromDatabase(fragment: CreatedPackageBepicFragment) {
+    fun loadPackagesFromDatabase(fragment: CreatedPackageBepicFragmentRft) {
         packageDao = AppDatabase.getInstance(fragment.requireActivity())?.packageNameDao()
 
         CoroutineScope(Dispatchers.Main).launch {
@@ -160,10 +160,10 @@ class CreatedPackageViewModel: BaseViewModel() {
         val bundle = Bundle()
         bundle.putString(Constants.BUNDLE_SUGGESTION_STICKER_TITLE, packageName)
         bundle.putSerializable(Constants.BUNDLE_FROM_ACTIVITY, FromActivity.MY_CREATION)
-        fragment.showActivityWithResultCode(StickerPackDetailBepicActivity::class.java, Constants.REQUEST_CODE_DELETE_STICKER, bundle)
+        fragment.showActivityWithResultCode(StickerPackDetailBepicActivityRft::class.java, Constants.REQUEST_CODE_DELETE_STICKER, bundle)
     }
 
-    fun addToWhatsapp(createdPackageFragment: CreatedPackageBepicFragment, stickerPack: PackageModel) {
+    fun addToWhatsapp(createdPackageFragment: CreatedPackageBepicFragmentRft, stickerPack: PackageModel) {
 
         if (uriList.size != stickerPack.stickers.size) {
             Toast.makeText(createdPackageFragment.requireActivity(), createdPackageFragment.requireActivity().getString(R.string.please_wait_until_all_stickers_are_loaded), Toast.LENGTH_SHORT).show()

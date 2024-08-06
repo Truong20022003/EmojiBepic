@@ -14,20 +14,20 @@ import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
 import com.app.friendschat.R
 import com.app.friendschat.data.model.StickerModel
-import com.app.friendschat.databinding.LayoutItemCreatedDraftBinding
+import com.app.friendschat.databinding.LayoutItemCreatedDraftRftBinding
 import com.app.friendschat.dialog.DeleteBepicDialog
-import com.app.friendschat.ui.emoji_edit.EditEmojiBepicActivity
+import com.app.friendschat.ui.emoji_edit.EditEmojiBepicActivityRft
 import com.app.friendschat.utils.Constants
 import com.app.friendschat.utils.EventTracking
 import com.app.friendschat.utils.widget.tapAndCheckInternet
 
 class CreatedDraftAdapter(
-    val createdDraftFragment: CreatedDraftBepicFragment,
+    val createdDraftFragment: CreatedDraftBepicFragmentRft,
     val stickers: MutableList<StickerModel>
 ) : RecyclerView.Adapter<CreatedDraftAdapter.ViewHolder>() {
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val binding = LayoutItemCreatedDraftBinding.inflate(
+        val binding = LayoutItemCreatedDraftRftBinding.inflate(
             createdDraftFragment.requireActivity().layoutInflater,
             parent,
             false
@@ -45,9 +45,9 @@ class CreatedDraftAdapter(
         }
     }
 
-    class ViewHolder(val binding: LayoutItemCreatedDraftBinding) :
+    class ViewHolder(val binding: LayoutItemCreatedDraftRftBinding) :
         RecyclerView.ViewHolder(binding.root) {
-        fun bind(createdDraftFragment: CreatedDraftBepicFragment, sticker: StickerModel) {
+        fun bind(createdDraftFragment: CreatedDraftBepicFragmentRft, sticker: StickerModel) {
             binding.progressBar.visibility = View.VISIBLE
             Glide.with(createdDraftFragment.requireActivity())
                 .load(sticker.url)
@@ -96,7 +96,7 @@ class CreatedDraftAdapter(
                 bundle.putString(Constants.BUNDLE_EDIT_JSON_EMOJI, sticker.jsonSticker)
 //                Constants.jsonUndoList = sticker.jsonUndoList.toString()
 //                Constants.jsonSticker = sticker.jsonSticker.toString()
-                createdDraftFragment.showActivity(EditEmojiBepicActivity::class.java, bundle)
+                createdDraftFragment.showActivity(EditEmojiBepicActivityRft::class.java, bundle)
 
                 EventTracking.logEvent(createdDraftFragment.requireActivity(), EventTracking.EVENT_NAME_CREATION_DRAFT_EDIT_CLICK)
             }

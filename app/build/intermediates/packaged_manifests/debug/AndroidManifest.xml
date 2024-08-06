@@ -15,10 +15,10 @@
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
-    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
     <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
@@ -44,62 +44,62 @@
         android:theme="@style/Theme.hearRateMonitor"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.app.friendschat.ui.permission.PermissionBepicActivity"
+            android:name="com.app.friendschat.ui.permission.PermissionBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.no_internet.NoInternetBepicActivity"
+            android:name="com.app.friendschat.ui.no_internet.NoInternetBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.emoji_edit.EditEmojiBepicActivity"
+            android:name="com.app.friendschat.ui.emoji_edit.EditEmojiBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.success.SuccessNewScreenActivity"
+            android:name="com.app.friendschat.ui.success.SuccessNewScreenActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.sticker_pack_detail.StickerPackDetailBepicActivity"
+            android:name="com.app.friendschat.ui.sticker_pack_detail.StickerPackDetailBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.language_setting.LanguageBepicActivity"
+            android:name="com.app.friendschat.ui.language_setting.LanguageBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.policy.PolicyBepicActivity"
+            android:name="com.app.friendschat.ui.policy.PolicyBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.emoji.EmojiBepicActivity"
+            android:name="com.app.friendschat.ui.emoji.EmojiBepicActivityNew"
             android:exported="true"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.intro.IntroBepicActivity"
+            android:name="com.app.friendschat.ui.intro.IntroBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.language_start.LanguageStartBepicActivity"
+            android:name="com.app.friendschat.ui.language_start.LanguageStartBepicActivityRft"
             android:exported="false"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.test.DrawTestNewScreenActivity"
+            android:name="com.app.friendschat.ui.test.DrawTestNewScreenActivityRft"
             android:exported="true"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
         <activity
-            android:name="com.app.friendschat.ui.splash.SplashBepicActivity"
+            android:name="com.app.friendschat.ui.splash.SplashBepicActivityRft"
             android:exported="true"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" >
@@ -110,7 +110,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.app.friendschat.ui.main.MainBepicActivity"
+            android:name="com.app.friendschat.ui.main.MainBepicActivityRft"
             android:screenOrientation="portrait"
             android:windowSoftInputMode="adjustPan" />
 
@@ -129,6 +129,10 @@
             android:enabled="true"
             android:exported="true"
             android:readPermission="com.whatsapp.sticker.READ" />
+        <provider
+            android:name="com.squareup.picasso.PicassoProvider"
+            android:authorities="com.app.friendschat.com.squareup.picasso"
+            android:exported="false" />
 
         <service
             android:name="com.google.firebase.components.ComponentDiscoveryService"
@@ -144,9 +148,6 @@
                 android:name="com.google.firebase.components:com.google.firebase.messaging.FirebaseMessagingRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
-                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
-                android:value="com.google.firebase.components.ComponentRegistrar" />
-            <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.crashlytics.CrashlyticsRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
@@ -159,17 +160,15 @@
                 android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
+                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+                android:value="com.google.firebase.components.ComponentRegistrar" />
+            <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.datatransport.TransportRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
             <meta-data
                 android:name="com.google.firebase.components:com.google.firebase.abt.component.AbtRegistrar"
                 android:value="com.google.firebase.components.ComponentRegistrar" />
         </service>
-
-        <provider
-            android:name="com.squareup.picasso.PicassoProvider"
-            android:authorities="com.app.friendschat.com.squareup.picasso"
-            android:exported="false" />
 
         <activity
             android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"

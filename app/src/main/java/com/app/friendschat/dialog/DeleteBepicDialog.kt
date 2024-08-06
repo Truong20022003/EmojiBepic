@@ -14,31 +14,25 @@ class DeleteBepicDialog(
     private val descriptionBepic: String,
     private val onClickDeleteBepic: () -> Unit,
 ) : Dialog(activity) {
-
-    private lateinit var ivCloseBepic: ImageView
-    private lateinit var rlQuitBepic: RelativeLayout
     private lateinit var rlDeleteBepic: RelativeLayout
+
+    private lateinit var rlQuitBepic: RelativeLayout
     private lateinit var tvDescriptionBepic: TextView
+    private lateinit var ivCloseBepic: ImageView
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         window?.setBackgroundDrawableResource(android.R.color.transparent);
-        setContentView(R.layout.dialog_delete_bepic)
+        setContentView(R.layout.dialog_delete_bepic_rft)
 
-        initViewBepic()
-        initListenerBepic()
+        initViewBepicRft()
+        initListenerBepicRft()
 
         tvDescriptionBepic.text = descriptionBepic
     }
 
-    private fun initViewBepic() {
-        ivCloseBepic = findViewById(R.id.iv_close)
-        rlQuitBepic = findViewById(R.id.rl_quit)
-        rlDeleteBepic = findViewById(R.id.rl_delete)
-        tvDescriptionBepic = findViewById(R.id.tv_description)
-    }
 
-    private fun initListenerBepic() {
+    private fun initListenerBepicRft() {
         ivCloseBepic.tapAndCheckInternet {
             dismiss()
         }
@@ -52,4 +46,12 @@ class DeleteBepicDialog(
             dismiss()
         }
     }
+    private fun initViewBepicRft() {
+        ivCloseBepic = findViewById(R.id.iv_close)
+        rlQuitBepic = findViewById(R.id.rl_quit)
+        rlDeleteBepic = findViewById(R.id.rl_delete)
+        tvDescriptionBepic = findViewById(R.id.tv_description)
+    }
+
+
 }

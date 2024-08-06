@@ -9,7 +9,7 @@ import com.app.friendschat.data.scheduler.ISchedulerProvider
 import com.app.friendschat.database.AppDatabase
 import com.app.friendschat.ui.base.BaseActivity
 import com.app.friendschat.ui.base.ViewModelFactory
-import com.app.friendschat.ui.splash.SplashBepicActivity
+import com.app.friendschat.ui.splash.SplashBepicActivityRft
 import com.app.friendschat.utils.Constants
 import com.app.friendschat.utils.LocalStorageUtils
 import java.util.UUID
@@ -42,8 +42,8 @@ class App : Application(){
         registerActivityLifecycleCallbacks(object : ActivityLifecycleCallbacks {
             override fun onActivityCreated(activity: Activity, savedInstanceState: Bundle?) {
                 if (isStartApp) {
-                    if (activity.javaClass.name != SplashBepicActivity::class.java.name) {
-                        activity.startActivity(Intent(activity, SplashBepicActivity::class.java))
+                    if (activity.javaClass.name != SplashBepicActivityRft::class.java.name) {
+                        activity.startActivity(Intent(activity, SplashBepicActivityRft::class.java))
                         activity.finishAffinity()
                         return
                     }

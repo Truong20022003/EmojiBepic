@@ -198,7 +198,7 @@ class StickerPackDetailViewModel : BaseViewModel() {
         }
     }
 
-    fun addToWhatsapp(activity: StickerPackDetailBepicActivity) {
+    fun addToWhatsapp(activity: StickerPackDetailBepicActivityRft) {
 
         if (uriList.size != stickers.value?.size) {
             Toast.makeText(activity, activity.getString(R.string.please_wait_until_all_stickers_are_loaded), Toast.LENGTH_SHORT).show()

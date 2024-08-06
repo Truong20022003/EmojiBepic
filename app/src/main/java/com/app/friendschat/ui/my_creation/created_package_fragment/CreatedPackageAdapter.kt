@@ -9,23 +9,23 @@ import android.widget.Toast
 import androidx.databinding.DataBindingUtil
 import androidx.recyclerview.widget.RecyclerView
 import androidx.recyclerview.widget.RecyclerView.ViewHolder
+import com.app.friendschat.R
+import com.app.friendschat.bottom_sheet.NewPackageBepicBts
+import com.app.friendschat.bottom_sheet.SharingAndAddingStickerPackBepicBts
+import com.app.friendschat.data.model.PackageModel
+import com.app.friendschat.databinding.LayoutNewPackageItemCreatedPackageRftBinding
+import com.app.friendschat.databinding.LayoutNormalItemCreatedPackageRftBinding
+import com.app.friendschat.utils.EventTracking
+import com.app.friendschat.utils.widget.tapAndCheckInternet
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.DataSource
 import com.bumptech.glide.load.engine.GlideException
 import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
-import com.app.friendschat.R
-import com.app.friendschat.bottom_sheet.NewPackageBepicBottomSheet
-import com.app.friendschat.bottom_sheet.SharingAndAddingStickerPackBepicBottomSheet
-import com.app.friendschat.data.model.PackageModel
-import com.app.friendschat.databinding.LayoutNewPackageItemCreatedPackageBinding
-import com.app.friendschat.databinding.LayoutNormalItemCreatedPackageBinding
-import com.app.friendschat.utils.EventTracking
-import com.app.friendschat.utils.widget.tapAndCheckInternet
 
 class CreatedPackageAdapter(
     private val packages: MutableList<PackageModel>,
-    private val createdPackageFragment: CreatedPackageBepicFragment
+    private val createdPackageFragment: CreatedPackageBepicFragmentRft
 ): RecyclerView.Adapter<ViewHolder>() {
 
     override fun onCreateViewHolder(
@@ -33,10 +33,10 @@ class CreatedPackageAdapter(
         viewType: Int
     ): ViewHolder {
         return if (viewType == ViewType.NEW_PACKAGE.value) {
-            val binding = DataBindingUtil.inflate<LayoutNewPackageItemCreatedPackageBinding>(LayoutInflater.from(parent.context), R.layout.layout_new_package_item_created_package, parent, false)
+            val binding = DataBindingUtil.inflate<LayoutNewPackageItemCreatedPackageRftBinding>(LayoutInflater.from(parent.context), R.layout.layout_new_package_item_created_package_rft, parent, false)
             NewPackageViewHolder(binding)
         } else {
-            val binding = DataBindingUtil.inflate<LayoutNormalItemCreatedPackageBinding>(LayoutInflater.from(parent.context), R.layout.layout_normal_item_created_package, parent, false)
+            val binding = DataBindingUtil.inflate<LayoutNormalItemCreatedPackageRftBinding>(LayoutInflater.from(parent.context), R.layout.layout_normal_item_created_package_rft, parent, false)
             NormalViewHolder(binding)
         }
     }
@@ -61,10 +61,10 @@ class CreatedPackageAdapter(
         }
     }
 
-    private class NewPackageViewHolder(val binding: LayoutNewPackageItemCreatedPackageBinding): ViewHolder(binding.root) {
-        fun bind(createdPackageFragment: CreatedPackageBepicFragment) {
+    private class NewPackageViewHolder(val binding: LayoutNewPackageItemCreatedPackageRftBinding): ViewHolder(binding.root) {
+        fun bind(createdPackageFragment: CreatedPackageBepicFragmentRft) {
             binding.root.tapAndCheckInternet {
-                val newPackageBottomSheet = NewPackageBepicBottomSheet {
+                val newPackageBottomSheet = NewPackageBepicBts {
                     createdPackageFragment.viewModel.refreshAdapterWithNewList()
                 }
                 newPackageBottomSheet.show(createdPackageFragment.requireActivity().supportFragmentManager, newPackageBottomSheet.tag)
@@ -74,8 +74,8 @@ class CreatedPackageAdapter(
         }
     }
 
-    private class NormalViewHolder(val binding: LayoutNormalItemCreatedPackageBinding): ViewHolder(binding.root) {
-        fun bind(packageModel: PackageModel, createdPackageFragment: CreatedPackageBepicFragment) {
+    private class NormalViewHolder(val binding: LayoutNormalItemCreatedPackageRftBinding): ViewHolder(binding.root) {
+        fun bind(packageModel: PackageModel, createdPackageFragment: CreatedPackageBepicFragmentRft) {
             binding.tvTitle.text = packageModel.packageName
 
             val numberOfSticker = packageModel.stickers.size
@@ -129,8 +129,8 @@ class CreatedPackageAdapter(
 
                 createdPackageFragment.viewModel.loadStickers(createdPackageFragment.requireActivity(), packageModel.stickers)
 
-                var bottomSheet: SharingAndAddingStickerPackBepicBottomSheet? = null
-                bottomSheet = SharingAndAddingStickerPackBepicBottomSheet(
+                var bottomSheet: SharingAndAddingStickerPackBepicBts? = null
+                bottomSheet = SharingAndAddingStickerPackBepicBts(
                     onClickAddToTelegram = {
                         createdPackageFragment.viewModel.addToTelegram(createdPackageFragment.requireActivity(), packageModel)
                     },

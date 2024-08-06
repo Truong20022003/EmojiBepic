@@ -13,7 +13,8 @@ import com.bumptech.glide.request.RequestListener
 import com.bumptech.glide.request.target.Target
 import com.app.friendschat.R
 import com.app.friendschat.data.model.PackageAdapterItem
-import com.app.friendschat.databinding.LayoutPackageItemBinding
+import com.app.friendschat.databinding.LayoutPackageItemRftBinding
+
 import com.app.friendschat.utils.widget.tapAndCheckInternet
 
 class PackageAdapter(
@@ -28,7 +29,7 @@ class PackageAdapter(
     }
 
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ViewHolder {
-        val binding = LayoutPackageItemBinding.inflate(activity.layoutInflater, parent, false)
+        val binding = LayoutPackageItemRftBinding.inflate(activity.layoutInflater, parent, false)
         return ViewHolder(binding)
     }
 
@@ -40,7 +41,7 @@ class PackageAdapter(
         holder.bind(activity, list[position])
     }
 
-    class ViewHolder(val binding: LayoutPackageItemBinding) : RecyclerView.ViewHolder(binding.root) {
+    class ViewHolder(val binding: LayoutPackageItemRftBinding) : RecyclerView.ViewHolder(binding.root) {
         fun bind(activity: Activity, item: PackageAdapterItem) {
             binding.tvTitle.text = item.packageModel.packageName
 

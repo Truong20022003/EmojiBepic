@@ -5,7 +5,7 @@ import android.content.Intent
 import android.os.Build
 import android.view.View
 import android.view.WindowInsetsController
-import com.app.friendschat.ui.no_internet.NoInternetBepicActivity
+import com.app.friendschat.ui.no_internet.NoInternetBepicActivityRft
 import com.app.friendschat.utils.CheckInternet
 
 fun Activity.changeStatusBarColor(color: Int, lightStatusBar: Boolean = false) {
@@ -39,7 +39,7 @@ fun View.tapAndCheckInternet(action: (view: View?) -> Unit) {
 
             if (!CheckInternet.haveNetworkConnection(context)) {
                 context.findActivity()?.let {
-                    val intent = Intent(it, NoInternetBepicActivity::class.java)
+                    val intent = Intent(it, NoInternetBepicActivityRft::class.java)
                     it.startActivity(intent)
                     it.overridePendingTransition(0, 0)
                 }

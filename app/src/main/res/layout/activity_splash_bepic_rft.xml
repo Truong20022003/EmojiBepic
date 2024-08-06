@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout>
+    <data>
+        <variable
+            name="viewModel"
+            type="com.app.friendschat.ui.splash.SplashViewModel"/>
+    </data>
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/custom_background">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginBottom="@dimen/_20sdp"
+            app:layout_constraintBottom_toTopOf="@id/layout_load_ads"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:layout_gravity="center"
+                android:layout_width="@dimen/_130sdp"
+                android:layout_height="@dimen/_130sdp"
+                android:background="@drawable/app_logo"/>
+
+            <TextView
+                android:layout_marginTop="@dimen/_13sdp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/app_name"
+                android:layout_gravity="center"
+                android:textColor="@color/color_095467"
+                android:fontFamily="@font/tt_hoves_pro_trial_bold"
+                android:textSize="24sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/layout_load_ads"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="52dp"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_marginHorizontal="@dimen/_20sdp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent">
+
+            <TextView
+                android:id="@+id/tv_loading"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="100%"
+                android:fontFamily="@font/tt_hoves_pro_trial_demi_bold"
+                android:textColor="@color/color_095467"
+                android:textSize="24sp"
+                android:layout_marginBottom="12dp"/>
+
+            <me.zhouzhuo.zzhorizontalprogressbar.ZzHorizontalProgressBar
+                android:id="@+id/pb"
+                android:layout_width="match_parent"
+                android:layout_height="6dp"
+                android:padding="2dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:zpb_bg_color="@color/white"
+                app:zpb_max="100"
+                app:zpb_pb_color="@color/color_095467" />
+
+
+
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:text="@string/this_action_can_contain_ads"
+                android:fontFamily="@font/tt_hoves_pro_trial_regular"
+                android:textSize="14sp"
+                android:textColor="@color/color_095467"
+                android:textAlignment="center"/>
+
+        </LinearLayout>
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+                                                       
+                                                  
+    
+
+    
+
+                 
+                            
+                                                                 
+           
+
+    <LinearLayout
+        android:id="@+id/parent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/custom_background"
+        android:orientation="vertical" android:tag="layout/activity_intro_bepic_new_rft_0" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:tools="http://schemas.android.com/tools">
+        <androidx.viewpager2.widget.ViewPager2
+            android:id="@+id/viewpager"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+        <LinearLayout
+            android:layout_marginHorizontal="@dimen/_16sdp"
+            android:id="@+id/lll1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintLeft_toLeftOf="parent"
+            app:layout_constraintRight_toRightOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            android:layout_marginBottom="40sp">
+
+            <com.tbuonomo.viewpagerdotsindicator.DotsIndicator
+                android:id="@+id/dots_indicator"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:paddingVertical="8dp"
+                app:dotsColor="#ffffff"
+                app:dotsCornerRadius="8dp"
+                app:dotsSize="6dp"
+                app:dotsSpacing="4dp"
+                app:dotsWidthFactor="4"
+                app:selectedDotColor="#444CE7" />
+
+            <TextView
+                android:id="@+id/txtNext"
+                android:layout_width="0sp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/next"
+                android:textAlignment="textEnd"
+                android:textColor="#4073F6" />
+        </LinearLayout>
+
+
+        <FrameLayout
+            android:id="@+id/native_ad_view_container"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2sdp"
+            android:layout_marginHorizontal="@dimen/_5sdp">
+
+            <FrameLayout
+                android:id="@+id/native_ad_view"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+
+            </FrameLayout>
+
+        </FrameLayout>
+
+    </LinearLayout>
+
+         

@@ -20,7 +20,7 @@ public interface ApiService {
             .retryOnConnectionFailure(true)
             .addInterceptor(loggingInterceptor);
     ApiService apiService = new Retrofit.Builder()
-            .baseUrl("http://207.148.116.90/api/r006_emoji_maker/")
+            .baseUrl("http://51.79.177.162/api/asa102emojimaker/")
             .client(okBuilder.build())
             .addConverterFactory(GsonConverterFactory.create())
             .addCallAdapterFactory(RxJava3CallAdapterFactory.create())
