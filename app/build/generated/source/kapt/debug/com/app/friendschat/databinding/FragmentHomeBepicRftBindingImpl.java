@@ -45,7 +45,7 @@ public class FragmentHomeBepicRftBindingImpl extends FragmentHomeBepicRftBinding
             , (android.widget.ImageView) bindings[4]
             , (androidx.constraintlayout.widget.ConstraintLayout) bindings[7]
             , (android.widget.LinearLayout) bindings[9]
-            , (android.widget.LinearLayout) bindings[3]
+            , (androidx.constraintlayout.widget.ConstraintLayout) bindings[3]
             , (androidx.recyclerview.widget.RecyclerView) bindings[6]
             , (android.widget.TextView) bindings[11]
             , (android.widget.TextView) bindings[5]

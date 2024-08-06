@@ -402,6 +402,7 @@ attr customNavigationLayout
 attr customPixelDimension
 attr customReference
 attr customStringValue
+attr dampingRatio
 attr data
 attr dataPattern
 attr dayInvalidStyle
@@ -428,6 +429,15 @@ attr dividerInsetStart
 attr dividerPadding
 attr dividerThickness
 attr dividerVertical
+attr dotsClickable
+attr dotsColor
+attr dotsCornerRadius
+attr dotsElevation
+attr dotsSize
+attr dotsSpacing
+attr dotsStrokeColor
+attr dotsStrokeWidth
+attr dotsWidthFactor
 attr dragDirection
 attr dragScale
 attr dragThreshold
@@ -941,6 +951,7 @@ attr preserveIconSpacing
 attr pressedTranslationZ
 attr progressBarPadding
 attr progressBarStyle
+attr progressMode
 attr quantizeMotionInterpolator
 attr quantizeMotionPhase
 attr quantizeMotionSteps
@@ -981,6 +992,7 @@ attr selectableItemBackground
 attr selectableItemBackgroundBorderless
 attr selectedBold
 attr selectedColor
+attr selectedDotColor
 attr selectionRequired
 attr selectorSize
 attr setsTag
@@ -1061,6 +1073,7 @@ attr state_lifted
 attr statusBarBackground
 attr statusBarForeground
 attr statusBarScrim
+attr stiffness
 attr strokeColor
 attr strokeWidth
 attr subMenuArrow
@@ -1395,6 +1408,7 @@ color color_344054
 color color_381E72
 color color_424242
 color color_444CE7
+color color_444ce7
 color color_475467
 color color_4E5BA6
 color color_4F378B
@@ -1425,6 +1439,7 @@ color color_F65A83
 color color_F9FBFD
 color color_FBF0E8
 color color_FCFCFC
+color color_c7d7fe
 color common_google_signin_btn_text_dark
 color common_google_signin_btn_text_dark_default
 color common_google_signin_btn_text_dark_disabled
@@ -3580,11 +3595,13 @@ drawable common_google_signin_btn_text_light_normal
 drawable common_google_signin_btn_text_light_normal_background
 drawable compat_splash_screen
 drawable compat_splash_screen_no_icon_background
+drawable custom_background
 drawable design_fab_background
 drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable dot_background
 drawable dot_not_select
 drawable dot_select
 drawable drop_shadow_rate_0
@@ -3680,6 +3697,7 @@ drawable ic_plus_circle
 drawable ic_portuguese_flag
 drawable ic_recent
 drawable ic_refresh
+drawable ic_save_language
 drawable ic_scale
 drawable ic_scale_and_rotate
 drawable ic_scale_and_rotate2
@@ -3695,6 +3713,7 @@ drawable ic_star
 drawable ic_start_ads
 drawable ic_swap
 drawable ic_telegram
+drawable ic_tip_home
 drawable ic_trash
 drawable ic_trash_01
 drawable ic_trash_dialog_add_to_package
@@ -3705,10 +3724,18 @@ drawable ic_watch_video
 drawable icon_background
 drawable image
 drawable image_saved_successfully
+drawable img_congratulations
+drawable img_intro1
+drawable img_intro2
+drawable img_intro3
 drawable img_intro_1
 drawable img_intro_2
 drawable img_intro_3
+drawable img_no_internet
+drawable img_notfound
+drawable img_permission
 drawable img_polygon
+drawable img_rate
 drawable lang_em
 drawable logo_splash
 drawable m3_appbar_background
@@ -3787,6 +3814,8 @@ drawable rating_4
 drawable rating_5
 drawable rating_banner
 drawable rounded_border_text_view
+drawable spring_dot_background
+drawable spring_dot_stroke_background
 drawable star_here
 drawable star_plus
 drawable sticker_transparent_background
@@ -3802,6 +3831,8 @@ drawable vpi__tab_selected_pressed_holo
 drawable vpi__tab_unselected_focused_holo
 drawable vpi__tab_unselected_holo
 drawable vpi__tab_unselected_pressed_holo
+drawable worm_dot_background
+drawable worm_dot_stroke_background
 font recoleta_alt_bold
 font recoleta_alt_medium
 font recoleta_alt_regular
@@ -3957,7 +3988,6 @@ id chronometer
 id circle_center
 id cl_header
 id cl_rate
-id cl_title
 id clear
 id clear_text
 id clip_horizontal
@@ -4006,9 +4036,8 @@ id disablePostScroll
 id disableScroll
 id disabled
 id disjoint
-id dot_1
-id dot_2
-id dot_3
+id dot
+id dots_indicator
 id dragAnticlockwise
 id dragClockwise
 id dragDown
@@ -4113,7 +4142,6 @@ id iv_delete
 id iv_delete_emoji
 id iv_dots
 id iv_download
-id iv_earth
 id iv_flip_horizontal
 id iv_flip_vertical
 id iv_home
@@ -4129,7 +4157,6 @@ id iv_number_of_sticker
 id iv_option
 id iv_photo
 id iv_refresh
-id iv_row_continue
 id iv_setting
 id iv_share
 id iv_show_layer
@@ -4152,7 +4179,6 @@ id line
 id line1
 id line3
 id linear
-id linear_dots
 id linear_home
 id linear_my_creation
 id linear_not_found
@@ -4174,6 +4200,8 @@ id ll_rating
 id ll_share
 id ll_sticker
 id ll_watch_video
+id lll1
+id lnselected
 id lottie_layer_name
 id main_container
 id masked
@@ -4329,7 +4357,6 @@ id rl_icon
 id rl_item
 id rl_layer
 id rl_lock
-id rl_next_ads
 id rl_okay
 id rl_option_header
 id rl_options
@@ -4406,6 +4433,7 @@ id split_action_bar
 id spread
 id spread_inside
 id spring
+id spring_dot
 id square
 id square_frame
 id src_atop
@@ -4499,6 +4527,7 @@ id tv_setting
 id tv_suggest
 id tv_title
 id tv_version
+id txtNext
 id txtSend
 id txt_continue
 id unchecked
@@ -4526,6 +4555,7 @@ id west
 id wide
 id withText
 id withinBounds
+id worm_dot
 id wrap
 id wrap_content
 id wrap_content_constrained
@@ -4668,6 +4698,7 @@ layout dialog_delete_bepic_rft
 layout dialog_exit_emoji_bepic_rft
 layout dialog_rating_app_bepic_rft
 layout dialog_unlock_items_bepic_rft
+layout dot_layout
 layout dp_example
 layout fragment_created_draft_bepic_rft
 layout fragment_created_package_bepic_rft
@@ -4766,6 +4797,7 @@ layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout sp_example
 layout splash_screen_view
+layout spring_dot_layout
 layout ssp_example
 layout support_simple_spinner_dropdown_item
 layout test_action_chip
@@ -4785,6 +4817,7 @@ layout text_view_with_line_height_from_layout
 layout text_view_with_line_height_from_style
 layout text_view_with_theme_line_height
 layout text_view_without_line_height
+layout worm_dot_layout
 mipmap ic_launcher
 mipmap ic_launcher_round
 navigation my_creation_nav_graph
@@ -4917,6 +4950,7 @@ string error_icon_content_description
 string example_emoji_1
 string excellent
 string exitzoommode
+string explore_more_sticker
 string explore_more_stickers
 string export
 string export_without_bg
@@ -6242,6 +6276,7 @@ styleable CoordinatorLayout keylines statusBarBackground
 styleable CoordinatorLayout_Layout android_layout_gravity layout_anchor layout_anchorGravity layout_behavior layout_dodgeInsetEdges layout_insetEdge layout_keyline
 styleable CustomAttribute attributeName customBoolean customColorDrawableValue customColorValue customDimension customFloatValue customIntegerValue customPixelDimension customReference customStringValue methodName
 styleable DialogFragmentNavigator android_name
+styleable DotsIndicator dotsClickable dotsColor dotsCornerRadius dotsElevation dotsSize dotsSpacing dotsWidthFactor progressMode selectedDotColor
 styleable DrawerArrowToggle arrowHeadLength arrowShaftLength barLength color drawableSize gapBetweenBars spinBars thickness
 styleable DrawerLayout elevation
 styleable DrawingView brush brush_color brush_size drawing_background_color
@@ -6336,6 +6371,7 @@ styleable Slider android_enabled android_value android_stepSize android_valueFro
 styleable Snackbar snackbarButtonStyle snackbarStyle snackbarTextViewStyle
 styleable SnackbarLayout android_maxWidth actionTextColorAlpha animationMode backgroundOverlayColorAlpha backgroundTint backgroundTintMode elevation maxActionInlineWidth
 styleable Spinner android_entries android_popupBackground android_prompt android_dropDownWidth popupTheme
+styleable SpringDotsIndicator dampingRatio dotsClickable dotsColor dotsCornerRadius dotsSize dotsSpacing dotsStrokeColor dotsStrokeWidth stiffness
 styleable State android_id constraints
 styleable StateListDrawable android_dither android_visible android_variablePadding android_constantSize android_enterFadeDuration android_exitFadeDuration
 styleable StateListDrawableItem android_drawable
@@ -6363,6 +6399,7 @@ styleable ViewPager2 android_orientation
 styleable ViewPagerIndicator vpiCirclePageIndicatorStyle vpiIconPageIndicatorStyle vpiLinePageIndicatorStyle vpiTabPageIndicatorStyle vpiTitlePageIndicatorStyle vpiUnderlinePageIndicatorStyle
 styleable ViewStubCompat android_id android_layout android_inflatedId
 styleable ViewTransition android_id SharedValue SharedValueId clearsTag duration ifTagNotSet ifTagSet motionInterpolator motionTarget onStateTransition pathMotionArc setsTag transitionDisable upDuration viewTransitionMode
+styleable WormDotsIndicator dotsClickable dotsColor dotsCornerRadius dotsSize dotsSpacing dotsStrokeColor dotsStrokeWidth
 styleable ZzHorizontalProgressBar zpb_bg_color zpb_border_color zpb_border_width zpb_draw_border zpb_gradient_from zpb_gradient_to zpb_max zpb_open_gradient zpb_open_second_gradient zpb_padding zpb_pb_color zpb_progress zpb_round_rect_radius zpb_second_gradient_from zpb_second_gradient_to zpb_second_pb_color zpb_second_progress zpb_show_mode zpb_show_second_point_shape zpb_show_second_progress zpb_show_zero_point
 styleable include constraintSet
 xml appsflyer_backup_rules

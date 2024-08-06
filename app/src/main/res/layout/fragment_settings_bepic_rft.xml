@@ -11,7 +11,7 @@
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-         android:background="@drawable/bg_main"
+         android:background="@drawable/custom_background"
         android:paddingHorizontal="@dimen/_13sdp"
         android:orientation="vertical"
         android:gravity="center_horizontal">
@@ -163,12 +163,16 @@
             android:orientation="vertical"
             android:layout_marginTop="32dp"
             android:gravity="center_horizontal">
-
+<ImageView
+    android:layout_width="223dp"
+    android:layout_height="214dp"
+    android:src="@drawable/img_intro3"/>
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:textSize="24sp"
-                android:text="@string/app_name"
+                android:text="@string/funny_emoji"
+                android:layout_marginTop="30sp"
                 android:textColor="@color/color_095467"
                 android:fontFamily="@font/tt_hoves_pro_trial_bold"/>
 
@@ -177,6 +181,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Version 1.0.0"
+
                 android:textSize="@dimen/_12ssp"
                 android:textColor="@color/color_737373"
                 android:layout_marginTop="@dimen/_3sdp"/>

@@ -28,70 +28,71 @@ class IntroBepicActivityRft : BaseActivity<IntroViewModel, ActivityIntroBepicNew
     override fun initView() {
         listIntroBepic.add(
             IntroModel(
-                R.drawable.img_intro_1,
+                R.drawable.img_intro1,
                 resources.getString(R.string.Welcome_to_Your_Emoji_Art),
                 resources.getString(R.string.Express_yourself_with_custom)
             )
         )
         listIntroBepic.add(
             IntroModel(
-                R.drawable.img_intro_2,
+                R.drawable.img_intro2,
                 resources.getString(R.string.Start_Your_Sticker_Journey),
                 resources.getString(R.string.Create_personalized_emojis)
             )
         )
         listIntroBepic.add(
             IntroModel(
-                R.drawable.img_intro_3,
+                R.drawable.img_intro3,
                 resources.getString(R.string.Sticker_and_Emoji_Joy),
                 resources.getString(R.string.Enjoy_making_unique_stickers)
             )
         )
-        addBottomDotsBepicRft(0)
+//        addBottomDotsBepicRft(0)
         introAdapterBepic = IntroAdapter(listIntroBepic)
         binding.viewpager.adapter = introAdapterBepic
         binding.viewpager.offscreenPageLimit = listIntroBepic.size
-
-        binding.viewpager.registerOnPageChangeCallback(object :
-            ViewPager2.OnPageChangeCallback() {
-            override fun onPageSelected(position: Int) {
-                super.onPageSelected(position)
-                when (position) {
-                    0 -> {
-                        if (countBepic > 0) {
-                            addBottomDotsBepicRft(position)
-                        }
-                        binding.tvNext.text = resources.getString(R.string.continue_txt)
-                        binding.ivRowContinue.visibility = View.VISIBLE
-                        EventTracking.logEvent(
-                            this@IntroBepicActivityRft,
-                            EventTracking.EVENT_NAME_ONBOARDING1_VIEW
-                        )
-                    }
-
-                    (listIntroBepic.size - 1) -> {
-                        addBottomDotsBepicRft(position)
-                        binding.tvNext.text = resources.getString(R.string.get_started)
-                        binding.ivRowContinue.visibility = View.GONE
-                        EventTracking.logEvent(
-                            this@IntroBepicActivityRft,
-                            EventTracking.EVENT_NAME_ONBOARDING3_VIEW
-                        )
-                    }
-
-                    else -> {
-                        countBepic++
-                        addBottomDotsBepicRft(position)
-                        binding.tvNext.text = resources.getString(R.string.continue_txt)
-                        binding.ivRowContinue.visibility = View.VISIBLE
-                        EventTracking.logEvent(
-                            this@IntroBepicActivityRft,
-                            EventTracking.EVENT_NAME_ONBOARDING2_VIEW
-                        )
-                    }
-                }
-            }
-        })
+        binding.dotsIndicator.attachTo(binding.viewpager)
+//
+//        binding.viewpager.registerOnPageChangeCallback(object :
+//            ViewPager2.OnPageChangeCallback() {
+//            override fun onPageSelected(position: Int) {
+//                super.onPageSelected(position)
+//                when (position) {
+//                    0 -> {
+//                        if (countBepic > 0) {
+//                            addBottomDotsBepicRft(position)
+//                        }
+////                        binding.tvNext.text = resources.getString(R.string.continue_txt)
+////                        binding.ivRowContinue.visibility = View.VISIBLE
+//                        EventTracking.logEvent(
+//                            this@IntroBepicActivityRft,
+//                            EventTracking.EVENT_NAME_ONBOARDING1_VIEW
+//                        )
+//                    }
+//
+//                    (listIntroBepic.size - 1) -> {
+//                        addBottomDotsBepicRft(position)
+////                        binding.tvNext.text = resources.getString(R.string.get_started)
+////                        binding.ivRowContinue.visibility = View.GONE
+//                        EventTracking.logEvent(
+//                            this@IntroBepicActivityRft,
+//                            EventTracking.EVENT_NAME_ONBOARDING3_VIEW
+//                        )
+//                    }
+//
+//                    else -> {
+//                        countBepic++
+//                        addBottomDotsBepicRft(position)
+//                        binding.tvNext.text = resources.getString(R.string.continue_txt)
+//                        binding.ivRowContinue.visibility = View.VISIBLE
+//                        EventTracking.logEvent(
+//                            this@IntroBepicActivityRft,
+//                            EventTracking.EVENT_NAME_ONBOARDING2_VIEW
+//                        )
+//                    }
+//                }
+//            }
+//        })
 
     }
 
@@ -107,7 +108,7 @@ class IntroBepicActivityRft : BaseActivity<IntroViewModel, ActivityIntroBepicNew
     }
 
     override fun bindViewModel() {
-        binding.tvNext.tapAndCheckInternet {
+        binding.txtNext.tapAndCheckInternet {
             if (binding.viewpager.currentItem < listIntroBepic.size - 1) {
                 var current = getItemBepicRft(1)
                 binding.viewpager.currentItem = current
@@ -135,22 +136,22 @@ class IntroBepicActivityRft : BaseActivity<IntroViewModel, ActivityIntroBepicNew
         finishAffinity()
     }
 
-    private fun addBottomDotsBepicRft(currentPage: Int) {
-        Log.d("VIET", "$currentPage")
-        if (currentPage == 0) {
-            binding.dot1.setBackgroundResource(R.drawable.dot_select)
-            binding.dot2.setBackgroundResource(R.drawable.dot_not_select)
-            binding.dot3.setBackgroundResource(R.drawable.dot_not_select)
-        } else if (currentPage == 1) {
-            binding.dot1.setBackgroundResource(R.drawable.dot_not_select)
-            binding.dot2.setBackgroundResource(R.drawable.dot_select)
-            binding.dot3.setBackgroundResource(R.drawable.dot_not_select)
-        } else {
-            binding.dot1.setBackgroundResource(R.drawable.dot_not_select)
-            binding.dot2.setBackgroundResource(R.drawable.dot_not_select)
-            binding.dot3.setBackgroundResource(R.drawable.dot_select)
-        }
-    }
+//    private fun addBottomDotsBepicRft(currentPage: Int) {
+//        Log.d("VIET", "$currentPage")
+//        if (currentPage == 0) {
+//            binding.dot1.setBackgroundResource(R.drawable.dot_select)
+//            binding.dot2.setBackgroundResource(R.drawable.dot_not_select)
+//            binding.dot3.setBackgroundResource(R.drawable.dot_not_select)
+//        } else if (currentPage == 1) {
+//            binding.dot1.setBackgroundResource(R.drawable.dot_not_select)
+//            binding.dot2.setBackgroundResource(R.drawable.dot_select)
+//            binding.dot3.setBackgroundResource(R.drawable.dot_not_select)
+//        } else {
+//            binding.dot1.setBackgroundResource(R.drawable.dot_not_select)
+//            binding.dot2.setBackgroundResource(R.drawable.dot_not_select)
+//            binding.dot3.setBackgroundResource(R.drawable.dot_select)
+//        }
+//    }
 
     private fun getItemBepicRft(i: Int): Int {
         return binding.viewpager.currentItem + i

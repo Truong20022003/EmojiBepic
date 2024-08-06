@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.app.friendschat.app-mergeDebugResources-69:/values-bn/values-bn.xml",
+            "outputFile": "com.app.friendschat.app-mergeDebugResources-70:/values-bn/values-bn.xml",
             "map": [
                 {
                     "source": "C:\\Users\\quang\\.gradle\\caches\\transforms-3\\91d8369e8686c234362d70fdc8d48f98\\transformed\\jetified-play-services-base-18.0.1\\res\\values-bn\\values.xml",

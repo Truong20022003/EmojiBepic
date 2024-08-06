@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.FrameLayout;
-import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 import androidx.annotation.NonNull;
@@ -16,24 +15,16 @@ import androidx.databinding.ViewDataBinding;
 import androidx.viewpager2.widget.ViewPager2;
 import com.app.friendschat.R;
 import com.app.friendschat.ui.intro.IntroViewModel;
+import com.tbuonomo.viewpagerdotsindicator.DotsIndicator;
 import java.lang.Deprecated;
 import java.lang.Object;
 
 public abstract class ActivityIntroBepicNewRftBinding extends ViewDataBinding {
   @NonNull
-  public final View dot1;
+  public final DotsIndicator dotsIndicator;
 
   @NonNull
-  public final View dot2;
-
-  @NonNull
-  public final View dot3;
-
-  @NonNull
-  public final ImageView ivRowContinue;
-
-  @NonNull
-  public final LinearLayout linearDots;
+  public final LinearLayout lll1;
 
   @NonNull
   public final FrameLayout nativeAdView;
@@ -45,10 +36,7 @@ public abstract class ActivityIntroBepicNewRftBinding extends ViewDataBinding {
   public final LinearLayout parent;
 
   @NonNull
-  public final LinearLayout rlNextAds;
-
-  @NonNull
-  public final TextView tvNext;
+  public final TextView txtNext;
 
   @NonNull
   public final ViewPager2 viewpager;
@@ -57,20 +45,16 @@ public abstract class ActivityIntroBepicNewRftBinding extends ViewDataBinding {
   protected IntroViewModel mViewModel;
 
   protected ActivityIntroBepicNewRftBinding(Object _bindingComponent, View _root,
-      int _localFieldCount, View dot1, View dot2, View dot3, ImageView ivRowContinue,
-      LinearLayout linearDots, FrameLayout nativeAdView, FrameLayout nativeAdViewContainer,
-      LinearLayout parent, LinearLayout rlNextAds, TextView tvNext, ViewPager2 viewpager) {
+      int _localFieldCount, DotsIndicator dotsIndicator, LinearLayout lll1,
+      FrameLayout nativeAdView, FrameLayout nativeAdViewContainer, LinearLayout parent,
+      TextView txtNext, ViewPager2 viewpager) {
     super(_bindingComponent, _root, _localFieldCount);
-    this.dot1 = dot1;
-    this.dot2 = dot2;
-    this.dot3 = dot3;
-    this.ivRowContinue = ivRowContinue;
-    this.linearDots = linearDots;
+    this.dotsIndicator = dotsIndicator;
+    this.lll1 = lll1;
     this.nativeAdView = nativeAdView;
     this.nativeAdViewContainer = nativeAdViewContainer;
     this.parent = parent;
-    this.rlNextAds = rlNextAds;
-    this.tvNext = tvNext;
+    this.txtNext = txtNext;
     this.viewpager = viewpager;
   }
 

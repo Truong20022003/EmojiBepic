@@ -17,9 +17,7 @@ public class ActivityLanguageBepicRftBindingImpl extends ActivityLanguageBepicRf
         sViewsWithIds.put(R.id.cl_header, 1);
         sViewsWithIds.put(R.id.iv_back, 2);
         sViewsWithIds.put(R.id.tv_select, 3);
-        sViewsWithIds.put(R.id.cl_title, 4);
-        sViewsWithIds.put(R.id.iv_earth, 5);
-        sViewsWithIds.put(R.id.rv_language, 6);
+        sViewsWithIds.put(R.id.rv_language, 4);
     }
     // views
     @NonNull
@@ -30,16 +28,14 @@ public class ActivityLanguageBepicRftBindingImpl extends ActivityLanguageBepicRf
     // Inverse Binding Event Handlers
 
     public ActivityLanguageBepicRftBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 7, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 5, sIncludes, sViewsWithIds));
     }
     private ActivityLanguageBepicRftBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
             , (androidx.constraintlayout.widget.ConstraintLayout) bindings[1]
-            , (androidx.constraintlayout.widget.ConstraintLayout) bindings[4]
             , (android.widget.ImageView) bindings[2]
-            , (android.widget.ImageView) bindings[5]
-            , (androidx.recyclerview.widget.RecyclerView) bindings[6]
-            , (android.widget.TextView) bindings[3]
+            , (androidx.recyclerview.widget.RecyclerView) bindings[4]
+            , (android.widget.ImageView) bindings[3]
             );
         this.mboundView0 = (androidx.constraintlayout.widget.ConstraintLayout) bindings[0];
         this.mboundView0.setTag(null);

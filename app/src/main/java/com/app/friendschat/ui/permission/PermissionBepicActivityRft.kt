@@ -46,7 +46,7 @@ class PermissionBepicActivityRft : BaseActivity<EmptyViewModel, ActivityPermissi
             PermissionUtils.requestStoragePermission(this@PermissionBepicActivityRft, REQUEST_CODE_STORAGE_PERMISSION_BEPIC_RFT)
         }
 
-        binding.rlNextAds.tapAndCheckInternet {
+        binding.tvNext.tapAndCheckInternet {
             showActivity(MainBepicActivityRft::class.java)
             LocalStorageUtils.writeData(this@PermissionBepicActivityRft, Constants.KEY_PERMISSION_SCREEN_SHOWED, true)
 

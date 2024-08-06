@@ -81,6 +81,7 @@ MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] C:\User
 MERGED from [com.google.android.gms:play-services-measurement-sdk-api:21.3.0] C:\Users\quang\.gradle\caches\transforms-3\c5ea0cc613d7d390f6d5fe3ab82814f8\transformed\jetified-play-services-measurement-sdk-api-21.3.0\AndroidManifest.xml:17:1-28:12
 MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\quang\.gradle\caches\transforms-3\7660365b706f9e4e7af0a93ada065877\transformed\jetified-play-services-measurement-base-21.3.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\quang\.gradle\caches\transforms-3\49a04df9a1dd3681ffa399a99b5c517c\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:16:1-26:12
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\quang\.gradle\caches\transforms-3\a8eedd8c8f87b7ff1cd07c93dc326ef3\transformed\jetified-dotsindicator-4.3-debug\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\quang\.gradle\caches\transforms-3\b4fa10a4d18d9fd26a2062af8751dda9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\quang\.gradle\caches\transforms-3\5dbfbe848d8c592b6ec3d912e1e25f54\transformed\jetified-android-networking-1.0.2\AndroidManifest.xml:18:1-27:12
 MERGED from [com.pes.materialcolorpicker:library:1.2.5] C:\Users\quang\.gradle\caches\transforms-3\7ab50679f3ceeb2870d439ac17bb455c\transformed\jetified-library-1.2.5\AndroidManifest.xml:2:1-11:12
@@ -321,6 +322,8 @@ MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\quang\.gradle\caches\transforms-3\7660365b706f9e4e7af0a93ada065877\transformed\jetified-play-services-measurement-base-21.3.0\AndroidManifest.xml:7:5-20
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\quang\.gradle\caches\transforms-3\49a04df9a1dd3681ffa399a99b5c517c\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\quang\.gradle\caches\transforms-3\49a04df9a1dd3681ffa399a99b5c517c\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:20:5-24:19
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\quang\.gradle\caches\transforms-3\a8eedd8c8f87b7ff1cd07c93dc326ef3\transformed\jetified-dotsindicator-4.3-debug\AndroidManifest.xml:9:5-47
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\quang\.gradle\caches\transforms-3\a8eedd8c8f87b7ff1cd07c93dc326ef3\transformed\jetified-dotsindicator-4.3-debug\AndroidManifest.xml:9:5-47
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\quang\.gradle\caches\transforms-3\8781c545ff36eb82534dbad232f1083f\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.1.2] C:\Users\quang\.gradle\caches\transforms-3\8781c545ff36eb82534dbad232f1083f\transformed\constraintlayout-2.1.2\AndroidManifest.xml:9:5-20
 MERGED from [com.airbnb.android:lottie:6.2.0] C:\Users\quang\.gradle\caches\transforms-3\ba81511104fc1bba36aa7e9299e28ed5\transformed\jetified-lottie-6.2.0\AndroidManifest.xml:7:5-20
@@ -661,6 +664,8 @@ MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Us
 MERGED from [com.google.android.gms:play-services-measurement-base:21.3.0] C:\Users\quang\.gradle\caches\transforms-3\7660365b706f9e4e7af0a93ada065877\transformed\jetified-play-services-measurement-base-21.3.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\quang\.gradle\caches\transforms-3\49a04df9a1dd3681ffa399a99b5c517c\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
 MERGED from [com.google.android.gms:play-services-basement:18.2.0] C:\Users\quang\.gradle\caches\transforms-3\49a04df9a1dd3681ffa399a99b5c517c\transformed\jetified-play-services-basement-18.2.0\AndroidManifest.xml:18:5-43
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\quang\.gradle\caches\transforms-3\a8eedd8c8f87b7ff1cd07c93dc326ef3\transformed\jetified-dotsindicator-4.3-debug\AndroidManifest.xml:5:5-7:41
+MERGED from [com.tbuonomo:dotsindicator:4.3] C:\Users\quang\.gradle\caches\transforms-3\a8eedd8c8f87b7ff1cd07c93dc326ef3\transformed\jetified-dotsindicator-4.3-debug\AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\quang\.gradle\caches\transforms-3\b4fa10a4d18d9fd26a2062af8751dda9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\quang\.gradle\caches\transforms-3\b4fa10a4d18d9fd26a2062af8751dda9\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.amitshekhar.android:android-networking:1.0.2] C:\Users\quang\.gradle\caches\transforms-3\5dbfbe848d8c592b6ec3d912e1e25f54\transformed\jetified-android-networking-1.0.2\AndroidManifest.xml:23:5-25:41

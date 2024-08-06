@@ -186,7 +186,8 @@ dependencies {
     implementation "com.intuit.ssp:ssp-android:$versions.sdp_version"
     implementation "com.intuit.sdp:sdp-android:$versions.sdp_version"
 
-
+    //dots
+    implementation("com.tbuonomo:dotsindicator:4.3")
 
     // Navigation component
     implementation "androidx.navigation:navigation-ui-ktx:$versions.nav_version"

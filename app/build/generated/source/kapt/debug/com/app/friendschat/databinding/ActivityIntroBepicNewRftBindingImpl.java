@@ -14,16 +14,12 @@ public class ActivityIntroBepicNewRftBindingImpl extends ActivityIntroBepicNewRf
     static {
         sIncludes = null;
         sViewsWithIds = new android.util.SparseIntArray();
-        sViewsWithIds.put(R.id.linear_dots, 1);
-        sViewsWithIds.put(R.id.dot_1, 2);
-        sViewsWithIds.put(R.id.dot_2, 3);
-        sViewsWithIds.put(R.id.dot_3, 4);
-        sViewsWithIds.put(R.id.viewpager, 5);
-        sViewsWithIds.put(R.id.rl_next_ads, 6);
-        sViewsWithIds.put(R.id.tv_next, 7);
-        sViewsWithIds.put(R.id.iv_row_continue, 8);
-        sViewsWithIds.put(R.id.native_ad_view_container, 9);
-        sViewsWithIds.put(R.id.native_ad_view, 10);
+        sViewsWithIds.put(R.id.viewpager, 1);
+        sViewsWithIds.put(R.id.lll1, 2);
+        sViewsWithIds.put(R.id.dots_indicator, 3);
+        sViewsWithIds.put(R.id.txtNext, 4);
+        sViewsWithIds.put(R.id.native_ad_view_container, 5);
+        sViewsWithIds.put(R.id.native_ad_view, 6);
     }
     // views
     // variables
@@ -32,21 +28,17 @@ public class ActivityIntroBepicNewRftBindingImpl extends ActivityIntroBepicNewRf
     // Inverse Binding Event Handlers
 
     public ActivityIntroBepicNewRftBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 11, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 7, sIncludes, sViewsWithIds));
     }
     private ActivityIntroBepicNewRftBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
-            , (android.view.View) bindings[2]
-            , (android.view.View) bindings[3]
-            , (android.view.View) bindings[4]
-            , (android.widget.ImageView) bindings[8]
-            , (android.widget.LinearLayout) bindings[1]
-            , (android.widget.FrameLayout) bindings[10]
-            , (android.widget.FrameLayout) bindings[9]
+            , (com.tbuonomo.viewpagerdotsindicator.DotsIndicator) bindings[3]
+            , (android.widget.LinearLayout) bindings[2]
+            , (android.widget.FrameLayout) bindings[6]
+            , (android.widget.FrameLayout) bindings[5]
             , (android.widget.LinearLayout) bindings[0]
-            , (android.widget.LinearLayout) bindings[6]
-            , (android.widget.TextView) bindings[7]
-            , (androidx.viewpager2.widget.ViewPager2) bindings[5]
+            , (android.widget.TextView) bindings[4]
+            , (androidx.viewpager2.widget.ViewPager2) bindings[1]
             );
         this.parent.setTag(null);
         setRootTag(root);

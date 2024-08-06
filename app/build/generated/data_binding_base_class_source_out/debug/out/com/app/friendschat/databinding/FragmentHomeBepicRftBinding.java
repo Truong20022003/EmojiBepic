@@ -40,7 +40,7 @@ public abstract class FragmentHomeBepicRftBinding extends ViewDataBinding {
   public final LinearLayout llContent;
 
   @NonNull
-  public final LinearLayout rlCreate;
+  public final ConstraintLayout rlCreate;
 
   @NonNull
   public final RecyclerView rvSuggest;
@@ -59,7 +59,7 @@ public abstract class FragmentHomeBepicRftBinding extends ViewDataBinding {
 
   protected FragmentHomeBepicRftBinding(Object _bindingComponent, View _root, int _localFieldCount,
       EditText edtSearch, ImageView imgGuide, ImageView ivClear, ImageView ivCreate,
-      ConstraintLayout linearNotFound, LinearLayout llContent, LinearLayout rlCreate,
+      ConstraintLayout linearNotFound, LinearLayout llContent, ConstraintLayout rlCreate,
       RecyclerView rvSuggest, TextView tvContent, TextView tvSuggest, TextView tvTile) {
     super(_bindingComponent, _root, _localFieldCount);
     this.edtSearch = edtSearch;

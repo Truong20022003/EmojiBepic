@@ -5,7 +5,6 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ImageView;
-import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.constraintlayout.widget.ConstraintLayout;
@@ -23,27 +22,19 @@ public abstract class ActivityLanguageStartBepicRftBinding extends ViewDataBindi
   public final ConstraintLayout clHeader;
 
   @NonNull
-  public final ConstraintLayout clTitle;
-
-  @NonNull
-  public final ImageView ivEarth;
-
-  @NonNull
   public final RecyclerView rvLanguage;
 
   @NonNull
-  public final TextView tvSelect;
+  public final ImageView tvSelect;
 
   @Bindable
   protected LanguageStartViewModel mViewModel;
 
   protected ActivityLanguageStartBepicRftBinding(Object _bindingComponent, View _root,
-      int _localFieldCount, ConstraintLayout clHeader, ConstraintLayout clTitle, ImageView ivEarth,
-      RecyclerView rvLanguage, TextView tvSelect) {
+      int _localFieldCount, ConstraintLayout clHeader, RecyclerView rvLanguage,
+      ImageView tvSelect) {
     super(_bindingComponent, _root, _localFieldCount);
     this.clHeader = clHeader;
-    this.clTitle = clTitle;
-    this.ivEarth = ivEarth;
     this.rvLanguage = rvLanguage;
     this.tvSelect = tvSelect;
   }

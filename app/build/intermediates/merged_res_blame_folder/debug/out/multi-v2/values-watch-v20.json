@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.app.friendschat.app-mergeDebugResources-69:/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "com.app.friendschat.app-mergeDebugResources-70:/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "C:\\Users\\quang\\.gradle\\caches\\transforms-3\\967bd1c55e3bf9e2ecb5bc1dc442ab66\\transformed\\jetified-play-services-auth-20.7.0\\res\\values-watch-v20\\values.xml",

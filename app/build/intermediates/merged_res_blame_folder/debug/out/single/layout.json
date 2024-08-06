@@ -1,118 +1,122 @@
 [
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_language_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_language_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\item_icon.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_icon.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_normal_item_created_package_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/layout_normal_item_created_package_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\fragment_settings_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_settings_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_policy_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_policy_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\fragment_created_draft_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_created_draft_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_no_internet_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_no_internet_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\item_options.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_options.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_new_package_item_created_package_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/layout_new_package_item_created_package_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\item_language_start.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_language_start.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_language_start_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_language_start_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\fragment_my_creation_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_my_creation_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_item_created_draft_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/layout_item_created_draft_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\layout_package_item_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_package_item_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_main_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_main_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_intro_bepic_new_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_intro_bepic_new_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_splash_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_splash_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\fragment_created_package_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_created_package_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_settings_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/fragment_settings_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\fragment_home_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_home_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_edit_emoji_new_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_edit_emoji_new_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_no_internet_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_no_internet_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_permission_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_permission_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\item_layer.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_layer.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_language_start.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/item_language_start.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_emoji_bepic_new_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_emoji_bepic_new_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_sticker_item_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/layout_sticker_item_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\layout_suggestion_item_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_suggestion_item_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_created_package_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/fragment_created_package_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_successfully_save_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_successfully_save_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_item_test_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/layout_item_test_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\layout_new_package_item_created_package_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_new_package_item_created_package_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_intro_bepic_new_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_intro_bepic_new_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_permission_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_permission_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_emoji_bepic_new_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_emoji_bepic_new_rft.xml"
+        "merged": "com.app.friendschat.app-mergeDebugResources-71:/layout/activity_intro_bepic_new_rft.xml",
+        "source": "com.app.friendschat.app-main-74:/layout/activity_intro_bepic_new_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_layer.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/item_layer.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\layout_sticker_item_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_sticker_item_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_suggestion_item_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/layout_suggestion_item_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_language_start_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_language_start_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_sticker_pack_detail_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_sticker_pack_detail_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_policy_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_policy_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_created_draft_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/fragment_created_draft_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\layout_item_test_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_item_test_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_options.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/item_options.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_splash_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_splash_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/layout_package_item_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/layout_package_item_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\layout_item_created_draft_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_item_created_draft_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_my_creation_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/fragment_my_creation_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_sticker_pack_detail_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_sticker_pack_detail_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/fragment_home_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/fragment_home_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_main_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_main_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_icon.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/item_icon.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\layout_normal_item_created_package_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_normal_item_created_package_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/activity_successfully_save_bepic_rft.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/activity_successfully_save_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_language_bepic_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_language_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-mergeDebugResources-70:/layout/item_pager_icon.xml",
-        "source": "com.app.friendschat.app-main-73:/layout/item_pager_icon.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\activity_edit_emoji_new_rft.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_edit_emoji_new_rft.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-mergeDebugResources-71:\\layout\\item_pager_icon.xml",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_pager_icon.xml"
     }
 ]

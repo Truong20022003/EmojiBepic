@@ -4,7 +4,7 @@
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-         android:background="@drawable/bg_main"
+         android:background="@drawable/custom_background"
         android:gravity="center"
         android:orientation="vertical">
 
@@ -14,27 +14,18 @@
             android:layout_width="match_parent"
             android:layout_height="262dp"
             android:layout_marginTop="50dp"
-            android:src="@drawable/new_img_not_found"
+            android:src="@drawable/img_no_internet"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent" />
 
-        <ImageView
-            android:layout_width="25dp"
-            android:layout_height="19dp"
-            android:layout_marginEnd="80dp"
-            android:layout_marginBottom="-2dp"
-            android:src="@drawable/img_polygon"
-            app:layout_constraintBottom_toTopOf="@id/llContent"
-            app:layout_constraintEnd_toEndOf="@id/llContent" />
 
         <LinearLayout
             android:id="@+id/llContent"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginHorizontal="30dp"
-            android:layout_marginTop="-80dp"
-            android:background="@drawable/new_bober_white"
+
             android:gravity="center_horizontal"
             android:orientation="vertical"
             android:paddingHorizontal="12dp"
@@ -50,7 +41,7 @@
                 android:gravity="center"
                 android:maxLines="2"
                 android:text="@string/no_internet"
-                android:textColor="@color/color_F04438"
+                android:textColor="@color/black"
                 android:textSize="@dimen/_16ssp" />
 
 
@@ -72,7 +63,7 @@
 
             <RelativeLayout
                 android:id="@+id/rl_try_again"
-                android:layout_width="match_parent"
+                android:layout_width="150sp"
                 android:layout_height="@dimen/_40sdp"
                 android:layout_marginTop="@dimen/_20sdp"
                 android:padding="@dimen/_10sdp"

@@ -22,19 +22,16 @@ public abstract class ActivityPermissionBepicRftBinding extends ViewDataBinding 
   public final ImageView imgGuide;
 
   @NonNull
-  public final ImageView ivRowContinue;
+  public final LinearLayout llContent;
 
   @NonNull
-  public final LinearLayout llContent;
+  public final LinearLayout lnselected;
 
   @NonNull
   public final FrameLayout nativeAdView;
 
   @NonNull
   public final FrameLayout nativeAdViewContainer;
-
-  @NonNull
-  public final LinearLayout rlNextAds;
 
   @NonNull
   public final SwitchMaterial switchStoragePermission;
@@ -45,25 +42,19 @@ public abstract class ActivityPermissionBepicRftBinding extends ViewDataBinding 
   @NonNull
   public final TextView tvNext;
 
-  @NonNull
-  public final TextView tvTile;
-
   protected ActivityPermissionBepicRftBinding(Object _bindingComponent, View _root,
-      int _localFieldCount, ImageView imgGuide, ImageView ivRowContinue, LinearLayout llContent,
-      FrameLayout nativeAdView, FrameLayout nativeAdViewContainer, LinearLayout rlNextAds,
-      SwitchMaterial switchStoragePermission, TextView tvContent, TextView tvNext,
-      TextView tvTile) {
+      int _localFieldCount, ImageView imgGuide, LinearLayout llContent, LinearLayout lnselected,
+      FrameLayout nativeAdView, FrameLayout nativeAdViewContainer,
+      SwitchMaterial switchStoragePermission, TextView tvContent, TextView tvNext) {
     super(_bindingComponent, _root, _localFieldCount);
     this.imgGuide = imgGuide;
-    this.ivRowContinue = ivRowContinue;
     this.llContent = llContent;
+    this.lnselected = lnselected;
     this.nativeAdView = nativeAdView;
     this.nativeAdViewContainer = nativeAdViewContainer;
-    this.rlNextAds = rlNextAds;
     this.switchStoragePermission = switchStoragePermission;
     this.tvContent = tvContent;
     this.tvNext = tvNext;
-    this.tvTile = tvTile;
   }
 
   @NonNull

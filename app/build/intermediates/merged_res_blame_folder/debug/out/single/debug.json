@@ -1,1078 +1,1118 @@
 [
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_unlock_emoji.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_unlock_emoji.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_fragment_home_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_home_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hair_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hair_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_permission_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_permission_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_trash.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_trash.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_adding_to_whatsapp_button.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_adding_to_whatsapp_button.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_text_input_new_package.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_text_input_new_package.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_trash_01.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_trash_01.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_mouth_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_mouth_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_unchecked.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_unchecked.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_scale.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_scale.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_image_suggestion_item.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_image_suggestion_item.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\anim_zoom_out.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\anim\\zoom_out.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_language_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_language_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_dialog_unlock_items_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\dialog_unlock_items_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_new_img_create.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\new_img_create.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_app_logo.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\app_logo.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_item_test_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_item_test_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_dialog_rating_app_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\dialog_rating_app_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hair.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hair.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_next.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_next.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_flag_fr.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\flag_fr.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_item_icon.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_item_icon.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_policy_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_policy_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_spanish_flag.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_spanish_flag.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_no_internet_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_no_internet_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_dots.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_dots.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_language_start_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_language_start_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_select_language.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_select_language.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_below_shadow.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\below_shadow.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_trash_01.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_trash_01.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_spanish_flag.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_spanish_flag.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_refresh.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_refresh.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_indo_flag.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_indo_flag.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_done_language.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_done_language.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_native.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_native.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_eyes_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_eyes_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_settings.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_tt_hoves_pro_trial_bold.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\tt_hoves_pro_trial_bold.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rating_1.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rating_1.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_logo_splash.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\logo_splash.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_lock.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_lock.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_accessory_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_accessory_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_permission.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_permission.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_delete_dialog.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_delete_dialog.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_urbanist_medium.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\urbanist_medium.ttf"
     },
     {
-        "merged": "com.app.friendschat.app-merged_res-71:/navigation_nav_graph.xml.flat",
-        "source": "com.app.friendschat.app-main-73:/navigation/nav_graph.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_china_flag.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_china_flag.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_telegram.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_telegram.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_undo_layer.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_undo_layer.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_policy_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_policy_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_flip.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_flip.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_brush_pencil.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\brush_pencil.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_progress_circle_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\progress_circle_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_accessory.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_accessory.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_flip_vertical.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_flip_vertical.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_intro_bepic_new_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_intro_bepic_new_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_edit.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_edit.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\anim_fade_out.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\anim\\fade_out.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\raw_image.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\raw\\image.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_semi_bold.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_semi_bold.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_urbanist_light.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\urbanist_light.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_dialog_delete_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\dialog_delete_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_search_home.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_search_home.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_lang_em.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\lang_em.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_normal_item_created_package_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_normal_item_created_package_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_background.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_background.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_item_pager_icon.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_pager_icon.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_btn_rate_us.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_btn_rate_us.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_cta_native.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_cta_native.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_start_ads.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_start_ads.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_flag_es.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\flag_es.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_language_start_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_language_start_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_item_icon.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_flag_en.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\flag_en.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\xml\\backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_delete_emoji.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_delete_emoji.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_star.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_star.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_sharing_and_adding_sticker_pack_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_sharing_and_adding_sticker_pack_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_alt_semi_bold.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_alt_semi_bold.otf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_adding_to_telegram_button.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_adding_to_telegram_button.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_span_flag.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_span_flag.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_test_color.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\test_color.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_dialog_add_to_package_sticker_image.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_dialog_add_to_package_sticker_image.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_settings_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_settings_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_new_package_bottom_sheet_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_new_package_bottom_sheet_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_star_here.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\star_here.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_create_home.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_create_home.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_settings_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_settings_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_create_next.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_create_next.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_more.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_more.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_package_item_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_package_item_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_unlock_emoji.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_unlock_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_img_polygon.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\img_polygon.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rating_3.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rating_3.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_share_dialog_add_to_package.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_share_dialog_add_to_package.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hair_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hair_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_dialog_exit_emoji_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\dialog_exit_emoji_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_close_delete_dialog.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_close_delete_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_dialog_after_rate_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\dialog_after_rate_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_suggestion.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_suggestion.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_native_lager.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_native_lager.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_package_item_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_package_item_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rating_5.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rating_5.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_logo_splash.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\logo_splash.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_fragment_settings_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\fragment_settings_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_above_shadow.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\above_shadow.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_close_circle.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\close_circle.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_dot_not_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\dot_not_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_fragment_created_package_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\fragment_created_package_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_flag_in.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\flag_in.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_save_to_package_bottom_sheet_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_save_to_package_bottom_sheet_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_swap.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_swap.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_image_suggestion_item.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_image_suggestion_item.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_new_img_rate.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\new_img_rate.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rating_0.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rating_0.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_fragment_home_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\fragment_home_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_urbanist_semi_bold.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\urbanist_semi_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_flag_in.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\flag_in.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_my_creation_draft_item.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_my_creation_draft_item.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_flag_hi.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\flag_hi.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_scale_and_rotate2.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_scale_and_rotate2.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_face_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_face_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_urbanist_extra_bold.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\urbanist_extra_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_share.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_share.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_notfound.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_notfound.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_nose_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_nose_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_dialog_unlock_items_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\dialog_unlock_items_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_no_internet_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_no_internet_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_alt_semi_bold.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_alt_semi_bold.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_brow_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_brow_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_dot_not_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\dot_not_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_item_options.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_options.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rating_4.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rating_4.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_main.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_main.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_alt_medium.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_alt_medium.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_beard_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_beard_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rating_banner.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rating_banner.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_item_options_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_item_options_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hat.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hat.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_tt_hoves_pro_trial_bold.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\tt_hoves_pro_trial_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_buttom_sheet.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_buttom_sheet.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_background_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_background_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_urbanist_regular.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\urbanist_regular.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_btn_create.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_btn_create.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_plus_circle.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_plus_circle.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_polygon.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_polygon.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_star.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_star.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_accessory_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_accessory_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rounded_border_text_view.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rounded_border_text_view.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hide_layer.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hide_layer.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_successfully_save_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_successfully_save_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_emoji_item_layer.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_emoji_item_layer.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_beard.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_beard.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_home.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_home.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_not_select_language.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_not_select_language.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_phone.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_phone.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\xml\\data_extraction_rules.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_urbanist_regular.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\urbanist_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_urbanist_light.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\urbanist_light.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_refresh.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_refresh.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_my_creation_item.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_my_creation_item.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rating_4.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rating_4.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_brow.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_brow.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_regular.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_regular.otf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_lock_emoji.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_lock_emoji.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rating_5.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rating_5.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_new_package_item_created_package_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_new_package_item_created_package_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\xml\\data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_popup_more_emoji.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_popup_more_emoji.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_item_options.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_item_options.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_back.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_back.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_setting_options.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_setting_options.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_edit_emoji_new_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_edit_emoji_new_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_brush_0.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\brush_0.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_show_layer.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_show_layer.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_omg.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_omg.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_new_bober_white.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\new_bober_white.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_copy_emoji2.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_copy_emoji2.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_back.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_my_creation_draft_item.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_my_creation_draft_item.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_face.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_face.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_alt_bold.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_alt_bold.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_close_circle.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\close_circle.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rating_3.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rating_3.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_plus_circle.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_plus_circle.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hindi_flag.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hindi_flag.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_successfully_save_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_successfully_save_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_home.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_home.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_urbanist_bold.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\urbanist_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_suggestion.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_suggestion.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\anim_zoom_in.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\anim\\zoom_in.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_select_your_type_bottom_sheet_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_select_your_type_bottom_sheet_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_eyes.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_eyes.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_scale_and_rotate2.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_scale_and_rotate2.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_bold.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_bold.otf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_cta_native.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_cta_native.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_next.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_next.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_urbanist_medium.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\urbanist_medium.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_medium.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_medium.otf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_urbanist_semi_bold.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\urbanist_semi_bold.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_trash_dialog_add_to_package.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_trash_dialog_add_to_package.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_item_layer.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\item_layer.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_bottom_nav_main_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_bottom_nav_main_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_delete_button.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_delete_button.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_chevron_right.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_chevron_right.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_dialog_add_to_package_sticker_image.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_dialog_add_to_package_sticker_image.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_home_unselect.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_home_unselect.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_image.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\image.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_globe.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_globe.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_face.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_face.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_dots.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_dots.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_sticker_item_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_sticker_item_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_navigation.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_navigation.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_photo_type_emoji.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\photo_type_emoji.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_dialog_after_rate_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\dialog_after_rate_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\anim_fade_in.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\anim\\fade_in.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_glass_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_glass_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_fading_shadow.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\fading_shadow.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_omg.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_omg.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hat_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hat_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_flag_hi.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\flag_hi.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_medium.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_medium.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_save_draft_button.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_save_draft_button.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_setting_options.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_setting_options.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_dialog_add_sticker_to_package_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\dialog_add_sticker_to_package_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_eyes.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_eyes.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_select_language.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_select_language.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_delete_layer.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_delete_layer.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_custom_background.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\custom_background.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_tt_hoves_pro_trial_demi_bold.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\tt_hoves_pro_trial_demi_bold.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_sticker_item_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_sticker_item_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_progress_circle_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\progress_circle_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_select_emoji.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_select_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_image_saved_successfully.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\image_saved_successfully.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hand_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hand_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_search_home.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_search_home.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_more_emoji_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_more_emoji_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_item_options.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_item_options.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_dialog_add_sticker_to_package.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_dialog_add_sticker_to_package.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_checked.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_checked.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_not_select_language.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_not_select_language.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_download_dialog_add_to_package.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_download_dialog_add_to_package.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_recent.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_recent.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_img_intro_2.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\img_intro_2.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_share.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_share.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_unchecked.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_unchecked.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_photo_type_emoji.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\photo_type_emoji.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_french_flag.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_french_flag.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_beard.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_beard.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_urbanist_bold.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\urbanist_bold.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_scale.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_scale.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_item_icon.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\item_icon.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_intro3.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_intro3.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_flag_es.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\flag_es.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\navigation_my_creation_nav_graph.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\navigation\\my_creation_nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_english_flag.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_english_flag.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_semi_bold.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_semi_bold.otf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_china_flag.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_china_flag.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_brush_pencil.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\brush_pencil.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_type_bottom_sheet.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_type_bottom_sheet.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_splash_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_splash_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\navigation_my_creation_nav_graph.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\navigation\\my_creation_nav_graph.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_save_to_package_bottom_sheet_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_save_to_package_bottom_sheet_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_home_unselect.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_home_unselect.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\xml_provider_paths.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\xml\\provider_paths.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rating_1.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rating_1.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_lang_em.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\lang_em.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_below_shadow.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\below_shadow.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_tt_hoves_pro_trial_regular.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\tt_hoves_pro_trial_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rating_0.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rating_0.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_watch_video.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_watch_video.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_circle_bg_white.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_circle_bg_white.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_btn_ads.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_btn_ads.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_star_plus.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\star_plus.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\xml_remote_config_defaults.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\xml\\remote_config_defaults.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_layer.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_layer.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_new_img_permission.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\new_img_permission.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_img_intro_3.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\img_intro_3.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_new_package_item_created_package_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_new_package_item_created_package_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_item_pager_icon.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\item_pager_icon.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_flag_en.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\flag_en.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_portuguese_flag.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_portuguese_flag.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_layer.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_layer.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_item_language_start.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\item_language_start.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_fading_shadow.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\fading_shadow.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_watch_video.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_watch_video.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_app_logo.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\app_logo.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_dialog_unlock_items.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_dialog_unlock_items.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_congratulations.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_congratulations.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_above_shadow.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\above_shadow.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_intro_3.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_intro_3.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_new_img_rate.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\new_img_rate.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_brush_0.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\brush_0.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_stickerpacknotice.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\stickerpacknotice.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_trash.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_trash.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_chevron_right.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_chevron_right.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_edit_emoji_new_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_edit_emoji_new_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_circle_white_background.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_circle_white_background.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_buttom_sheet.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_buttom_sheet.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_glass_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_glass_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\anim_fade_out.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\anim\\fade_out.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\xml\\backup_rules.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_item_icon.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_item_icon.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_item_options.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\item_options.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_image.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\image.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_bottom_nav_main_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_bottom_nav_main_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_mouth.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_mouth.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hair.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hair.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hindi_flag.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hindi_flag.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\navigation_nav_graph.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\navigation\\nav_graph.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_copy2.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_copy2.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_trash_dialog_add_to_package.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_trash_dialog_add_to_package.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_delete_dialog.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_delete_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_close_dialog.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_close_dialog.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_photo_type_sticker.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\photo_type_sticker.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\xml_remote_config_defaults.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\xml\\remote_config_defaults.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hat.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hat.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_select_emoji.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_select_emoji.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_share_or_download_button.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_share_or_download_button.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_flip_vertical.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_flip_vertical.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_sharing_and_adding_sicker_pack_bottom_sheet_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_sharing_and_adding_sicker_pack_bottom_sheet_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\anim_zoom_in.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\anim\\zoom_in.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_english_flag.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_english_flag.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_copy_emoji.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_copy_emoji.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_test_color.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\test_color.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_more_emoji_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_more_emoji_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\navigation\\nav_graph.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_new_img_permission.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\new_img_permission.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_copy_emoji2.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_copy_emoji2.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_layer_emoji_bottom_sheet_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_layer_emoji_bottom_sheet_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_fragment_settings_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_settings_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_native.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_native.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_adding_to_telegram_button.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_adding_to_telegram_button.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_suggestion_item_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_suggestion_item_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_suggestion_item_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_suggestion_item_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_save_draft_button.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_save_draft_button.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_dialog_exit_emoji_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\dialog_exit_emoji_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hand_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hand_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_item_intro.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_intro.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_btn_create.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_btn_create.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_fragment_created_package_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_created_package_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_create_home.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_create_home.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_search_home.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_search_home.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_my_creation_packet_item.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_my_creation_packet_item.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_permission_banner.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\permission_banner.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_swap.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_swap.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_sharing_and_adding_sticker_pack_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_sharing_and_adding_sticker_pack_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_undo_layer.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_undo_layer.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_emoji_bepic_new_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_emoji_bepic_new_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_flip.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_flip.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_light.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_light.otf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_edit.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_edit.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_ads_icon.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_ads_icon.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_dot_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\dot_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_fragment_my_creation_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_my_creation_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_item_layer.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_layer.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_flag_de.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\flag_de.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_accessory.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_accessory.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_layer.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_layer.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_brow.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_brow.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_emoji_lang.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\emoji_lang.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_dialog_delete_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\dialog_delete_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_navigation.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_navigation.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_share_dialog_add_to_package.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_share_dialog_add_to_package.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_share_or_download_button.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_share_or_download_button.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_german_flag.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_german_flag.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_close_bottom_sheet.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_close_bottom_sheet.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_close_emoji.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_close_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_img_intro_1.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\img_intro_1.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_dot_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\dot_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_rating_2.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\rating_2.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_intro2.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_intro2.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_glass.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_glass.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_star_here.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\star_here.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_beard_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_beard_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_popup_more_emoji.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_popup_more_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_globe.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_globe.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_permission.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_permission.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_ads_icon.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_ads_icon.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_dialog_unlock_items.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_dialog_unlock_items.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_arrow_narrow_left.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_arrow_narrow_left.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_checked.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_checked.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_main.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_main.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_start_ads.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_start_ads.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_new_bober_white.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\new_bober_white.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_new_ic_row_continue.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\new_ic_row_continue.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_intro_1.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_intro_1.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_home_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_home_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_my_creation_item.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_my_creation_item.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_permission_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_permission_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_nose_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_nose_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_adding_to_whatsapp_button.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_adding_to_whatsapp_button.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_dialog_rating_app_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\dialog_rating_app_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_tt_hoves_pro_trial_regular.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\tt_hoves_pro_trial_regular.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_item_language_start.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\item_language_start.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_more.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_more.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_download_dialog_add_to_package.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_download_dialog_add_to_package.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_drop_shadow_rate_0.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\drop_shadow_rate_0.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_french_flag.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_french_flag.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_close_delete_dialog.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_close_delete_dialog.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_close_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_close_bottom_sheet.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_light.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_light.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hat_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hat_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_dialog_add_sticker_to_package_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\dialog_add_sticker_to_package_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_fragment_created_draft_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\fragment_created_draft_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_normal_item_created_package_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_normal_item_created_package_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_circle_bg_white.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_circle_bg_white.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_phone.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_phone.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_save_language.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_save_language.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_splash_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_splash_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_no_internet.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_no_internet.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_bold.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_bold.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_my_creation.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_my_creation.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_close_emoji.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_close_emoji.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_item_created_draft_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_item_created_draft_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_brow_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_brow_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_circle_white_background.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_circle_white_background.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_download.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_download.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_button_watch_video.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_button_watch_video.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_dialog_add_sticker_to_package.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_dialog_add_sticker_to_package.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_type_bottom_sheet.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_type_bottom_sheet.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_btn_submit_rate.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_btn_submit_rate.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_number_of_sticker.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_number_of_sticker.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_scale_and_rotate.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_scale_and_rotate.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_rate.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_rate.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_search_home.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_search_home.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_tip_home.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_tip_home.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_new_package_bottom_sheet_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_new_package_bottom_sheet_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_intro1.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_intro1.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_create.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_create.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_flip_horizontal.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_flip_horizontal.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\raw_image.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\raw\\image.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_emoji_lang.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\emoji_lang.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_fragment_created_draft_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\fragment_created_draft_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_image_saved_successfully.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\image_saved_successfully.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_emoji_bepic_new_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_emoji_bepic_new_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_bottom_sheet_drag_handler.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_bottom_sheet_drag_handler.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_number_of_sticker.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_number_of_sticker.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_done_language.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_done_language.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_show_layer.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_show_layer.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_close_dialog.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_close_dialog.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_item_options_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_item_options_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_sticker_pack_detail_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_sticker_pack_detail_bepic_rft.xml"
     },
     {
-        "merged": "com.app.friendschat.app-merged_res-71:/navigation_my_creation_nav_graph.xml.flat",
-        "source": "com.app.friendschat.app-main-73:/navigation/my_creation_nav_graph.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_lock_emoji.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_lock_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_language_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_language_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_home_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_home_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_test_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_test_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_create.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_create.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_item_test_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_item_test_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rating_banner.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rating_banner.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_sticker_transparent_background.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\sticker_transparent_background.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_flag_pt.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\flag_pt.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_item_intro.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\item_intro.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_new_img_not_found.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\new_img_not_found.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_sticker_pack_detail_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_sticker_pack_detail_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_face_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_face_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_fragment_my_creation_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\fragment_my_creation_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_hand.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_hand.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_flip_horizontal.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_flip_horizontal.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_sticker_item.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_sticker_item.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\xml_provider_paths.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\xml\\provider_paths.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_btn_submit_rate.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_btn_submit_rate.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_btn_ads.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_btn_ads.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_portuguese_flag.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_portuguese_flag.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_recent.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_recent.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_eyes_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_eyes_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_background_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_background_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_alt_bold.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_alt_bold.otf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_photo_type_sticker.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\photo_type_sticker.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\anim_zoom_out.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\anim\\zoom_out.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_span_flag.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_span_flag.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_flag_de.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\flag_de.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_mouth.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_mouth.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_select_your_type_bottom_sheet_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_select_your_type_bottom_sheet_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_urbanist_extra_bold.ttf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\urbanist_extra_bold.ttf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_layout_layer_emoji_bottom_sheet_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\layout_layer_emoji_bottom_sheet_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_my_creation.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_my_creation.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rounded_border_text_view.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rounded_border_text_view.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_my_creation_select.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_my_creation_select.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_layer.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_layer.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_nose.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_nose.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_delete_emoji.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_delete_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_sharing_and_adding_sicker_pack_bottom_sheet_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_sharing_and_adding_sicker_pack_bottom_sheet_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_delete_button.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_delete_button.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_bg_bottom_sheet_drag_handler.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\bg_bottom_sheet_drag_handler.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_glass.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_glass.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_regular.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_regular.otf"
+        "merged": "com.app.friendschat.app-merged_res-72:/layout_activity_intro_bepic_new_rft.xml.flat",
+        "source": "com.app.friendschat.app-main-74:/layout/activity_intro_bepic_new_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_new_img_create.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\new_img_create.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_copy2.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_copy2.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_telegram.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_telegram.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_indo_flag.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_indo_flag.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_text_input_new_package.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_text_input_new_package.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_flag_fr.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\flag_fr.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_add_button.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\add_button.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_new_img_not_found.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\new_img_not_found.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_download.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_download.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_permission.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_permission.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_bg_my_creation_packet_item.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_bg_my_creation_packet_item.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_settings.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_settings.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_rating_2.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\rating_2.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_german_flag.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_german_flag.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_test_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_test_bepic_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_lock.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_lock.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_delete_layer.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_delete_layer.png"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_bg_sticker_item.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_bg_sticker_item.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_scale_and_rotate.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_scale_and_rotate.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_add_button.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\add_button.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_sticker_transparent_background.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\sticker_transparent_background.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_activity_main_bepic_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\activity_main_bepic_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_border_native_lager.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\border_native_lager.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_emoji_item_layer.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_emoji_item_layer.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_drop_shadow_rate_0.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\drop_shadow_rate_0.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_new_ic_row_continue.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\new_ic_row_continue.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_create_next.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_create_next.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\layout_layout_item_created_draft_rft.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\layout\\layout_item_created_draft_rft.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_tt_hoves_pro_trial_demi_bold.ttf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\tt_hoves_pro_trial_demi_bold.ttf"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_border_button_watch_video.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\border_button_watch_video.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_copy_emoji.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_copy_emoji.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\font_recoleta_alt_regular.otf.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\font\\recoleta_alt_regular.otf"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\anim_fade_in.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\anim\\fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_flag_pt.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\flag_pt.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_intro_bepic_new_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_intro_bepic_new_rft.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hand.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hand.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_star_plus.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\star_plus.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_permission_banner.png.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\permission_banner.png"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_my_creation_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_my_creation_select.xml"
     },
     {
-        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-71:\\drawable_ic_hide_layer.xml.flat",
-        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-73:\\drawable\\ic_hide_layer.xml"
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_nose.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_nose.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_mouth_select.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_mouth_select.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\layout_activity_main_bepic_rft.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\layout\\activity_main_bepic_rft.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_alt_regular.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_alt_regular.otf"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_bg_btn_rate_us.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\bg_btn_rate_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\font_recoleta_alt_medium.otf.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\font\\recoleta_alt_medium.otf"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_arrow_narrow_left.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_arrow_narrow_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_img_intro_2.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\img_intro_2.png"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_ic_background.xml.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\ic_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-merged_res-72:\\drawable_stickerpacknotice.png.flat",
+        "source": "C:\\Users\\quang\\.gradle\\daemon\\7.5\\com.app.friendschat.app-main-74:\\drawable\\stickerpacknotice.png"
     }
 ]

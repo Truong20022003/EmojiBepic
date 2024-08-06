@@ -16,14 +16,12 @@ public class ActivityPermissionBepicRftBindingImpl extends ActivityPermissionBep
         sViewsWithIds = new android.util.SparseIntArray();
         sViewsWithIds.put(R.id.img_guide, 1);
         sViewsWithIds.put(R.id.llContent, 2);
-        sViewsWithIds.put(R.id.tvTile, 3);
-        sViewsWithIds.put(R.id.tvContent, 4);
+        sViewsWithIds.put(R.id.tvContent, 3);
+        sViewsWithIds.put(R.id.lnselected, 4);
         sViewsWithIds.put(R.id.switch_storage_permission, 5);
-        sViewsWithIds.put(R.id.rl_next_ads, 6);
-        sViewsWithIds.put(R.id.tv_next, 7);
-        sViewsWithIds.put(R.id.iv_row_continue, 8);
-        sViewsWithIds.put(R.id.native_ad_view_container, 9);
-        sViewsWithIds.put(R.id.native_ad_view, 10);
+        sViewsWithIds.put(R.id.tv_next, 6);
+        sViewsWithIds.put(R.id.native_ad_view_container, 7);
+        sViewsWithIds.put(R.id.native_ad_view, 8);
     }
     // views
     @NonNull
@@ -34,20 +32,18 @@ public class ActivityPermissionBepicRftBindingImpl extends ActivityPermissionBep
     // Inverse Binding Event Handlers
 
     public ActivityPermissionBepicRftBindingImpl(@Nullable androidx.databinding.DataBindingComponent bindingComponent, @NonNull View root) {
-        this(bindingComponent, root, mapBindings(bindingComponent, root, 11, sIncludes, sViewsWithIds));
+        this(bindingComponent, root, mapBindings(bindingComponent, root, 9, sIncludes, sViewsWithIds));
     }
     private ActivityPermissionBepicRftBindingImpl(androidx.databinding.DataBindingComponent bindingComponent, View root, Object[] bindings) {
         super(bindingComponent, root, 0
             , (android.widget.ImageView) bindings[1]
-            , (android.widget.ImageView) bindings[8]
             , (android.widget.LinearLayout) bindings[2]
-            , (android.widget.FrameLayout) bindings[10]
-            , (android.widget.FrameLayout) bindings[9]
-            , (android.widget.LinearLayout) bindings[6]
+            , (android.widget.LinearLayout) bindings[4]
+            , (android.widget.FrameLayout) bindings[8]
+            , (android.widget.FrameLayout) bindings[7]
             , (com.google.android.material.switchmaterial.SwitchMaterial) bindings[5]
-            , (android.widget.TextView) bindings[4]
-            , (android.widget.TextView) bindings[7]
             , (android.widget.TextView) bindings[3]
+            , (android.widget.TextView) bindings[6]
             );
         this.mboundView0 = (androidx.constraintlayout.widget.ConstraintLayout) bindings[0];
         this.mboundView0.setTag(null);
